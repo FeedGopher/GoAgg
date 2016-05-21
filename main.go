@@ -2,7 +2,12 @@ package main
 
 import (
 	"fmt"
-	"http"
+	"net/http"
+	"database/sql"
+	"encoding/xml"
+	"encoding/json"
+
+	"github.com/lib/pq"
 )
 
 // package level variables
@@ -19,7 +24,7 @@ import (
 */
 
 var (
-	neature int = math.E
+	neature int32 = math.E
 	MaxInt uint64 = 1<<64 - 1
 	sign byte
 	glyph rune
@@ -36,7 +41,23 @@ struct feed (
 )
 
 func fetchFeed(uri string) (*feed) {
+	response, err := http.Get(uri)
+	if err != nil {
+		fmt.Println('error fetching feed')
+	}
 
+	decoder := xml.NewDecoder(response)
+
+	err := decoder.Decode()
+	if err != nil {
+		fmt.Println('error decoding feed')
+	}
+
+}
+
+// https://godoc.org/github.com/clbanning/mxj#example-HandleXmlReader
+func XMLtoJSON(xml *smth) (json interface {}) {
+	return json.Marshal(xml)
 }
 
 

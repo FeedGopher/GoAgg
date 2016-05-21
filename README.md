@@ -3,8 +3,9 @@ Golang service to fetch and store ATOM feeds for FeedGopher.
 
 Keeps track of a user's ATOM URIs, updates feed information on login and periodically while user is logged in, parses ATOM XML and stores as a document
 
+--note: PriorityQueue implemented with go package container/heap to store list of users feeds to update, prioritized on logged-in status.
 
-Database structure:
+Database (https://github.com/lib/pq) structure:
 <SQL table builder image>
 <Need to phyically draw these>
 
