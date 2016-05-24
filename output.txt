@@ -1,0 +1,1974 @@
+response body: &{%!s(*http.gzipReader=&{0xc8203340c0 <nil>}) {%!s(int32=0) %!s(uint32=0)} %!s(bool=false) <nil> %!s(func(error) error=0x4d3880) %!s(func() error=0x4d3820)}
+
+mxj'd response body: <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="https://www.blogger.com/styles/atom.css" type="text/css"?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:georss='http://www.georss.org/georss' xmlns:thr='http://purl.org/syndication/thread/1.0' xmlns:blogger='http://schemas.google.com/blogger/2008'><id>tag:blogger.com,1999:blog-8100407163665430627</id><updated>2016-05-22T17:13:53.180+02:00</updated><category term='dvd'/><category term='technique'/><category term='movie'/><category term='dzone'/><category term='jsmyth'/><category term='layout'/><category term='coffeescript'/><category term='jslang'/><category term='12quirks'/><category term='chromeos'/><category term='hosting'/><category term='jsfuture'/><category term='jsarrays'/><category term='audio'/><category term='ted'/><category term='guice'/><category term='tablet'/><category term='privacy'/><category term='facebook'/><category term='society'/><category term='education'/><category term='asmjs'/><category term='house'/><category term='fringe'/><category term='microsoft'/><category term='exploring es6'/><category term='library'/><category term='obama'/><category term='app'/><category term='raspberry pi'/><category term='es2016'/><category term='organizing'/><category term='jquery'/><category term='proxies'/><category term='jsdom'/><category term='samsung'/><category term='publishing'/><category term='msl'/><category term='babel'/><category term='javafx'/><category term='html'/><category term='flash'/><category term='free'/><category term='wwdc'/><category term='idea'/><category term='software engineering'/><category term='gaming'/><category term='esnext news'/><category term='safari'/><category term='health'/><category term='cloud'/><category term='fritzbox'/><category term='mac'/><category term='tc39'/><category term='star trek'/><category term='webassembly'/><category term='esnext'/><category term='jsshell'/><category term='css'/><category term='guest'/><category term='occupy'/><category term='location'/><category term='iteration'/><category term='law'/><category term='feedback'/><category term='latex'/><category term='howto'/><category term='mpaa'/><category term='hack'/><category term='coding'/><category term='rust'/><category term='amdefine'/><category term='dom'/><category term='deutsch'/><category term='numbers'/><category term='nike'/><category term='template literals'/><category term='tv'/><category term='v8'/><category term='concurrency'/><category term='emacs'/><category term='webos'/><category term='motorola'/><category term='htc'/><category term='unicode'/><category term='kindle'/><category term='entertainment'/><category term='astronomy'/><category term='ecommerce'/><category term='philosophy'/><category term='apple'/><category term='browser'/><category term='light peak'/><category term='markdown'/><category term='web'/><category term='typedjs'/><category term='pixar'/><category term='blogging'/><category term='puzzle'/><category term='business'/><category term='travel'/><category term='energy'/><category term='python'/><category term='static generation'/><category term='javascript'/><category term='web design'/><category term='emberjs'/><category term='series'/><category term='math'/><category term='jshistory'/><category term='german'/><category term='clientjs'/><category term='webdev'/><category term='canada'/><category term='icloud'/><category term='eval'/><category term='app urls'/><category term='tizen'/><category term='__proto__'/><category term='itunes'/><category term='meta-data'/><category term='typescript'/><category term='security'/><category term='lion'/><category term='webm'/><category term='googleplus'/><category term='angularjs'/><category term='diaspora'/><category term='thunderbolt'/><category term='jsstyle'/><category term='pdf'/><category term='dev'/><category term='video'/><category term='psychology'/><category term='environment'/><category term='michael j. fox'/><category term='english'/><category term='async'/><category term='clip'/><category term='bluetooth'/><category term='music'/><category term='es proposal'/><category term='blink'/><category term='traffic'/><category term='googleio'/><category term='internet explorer'/><category term='jstools'/><category term='biology'/><category term='ical'/><category term='presenting'/><category term='chrome'/><category term='firefly'/><category term='nodejs'/><category term='nsa'/><category term='jsmodules'/><category term='mars'/><category term='computers'/><category term='webapp'/><category term='airbender'/><category term='opinion'/><category term='aol'/><category term='blogger'/><category term='vlc'/><category term='underscorejs'/><category term='webkit'/><category term='middle east'/><category term='jsint'/><category term='google'/><category term='futurama'/><category term='hci'/><category term='gadget'/><category term='lightning'/><category term='atscript'/><category term='semantic web'/><category term='iphone'/><category term='cross-platform'/><category term='git'/><category term='pl fundamentals'/><category term='media'/><category term='nokia'/><category term='app store'/><category term='info mgmt'/><category term='mssurface'/><category term='fun'/><category term='polymer'/><category term='facets'/><category term='amazon'/><category term='adobe'/><category term='programming'/><category term='eclipse'/><category term='history'/><category term='mozilla'/><category term='fluentconf'/><category term='hyena'/><category term='angry birds'/><category term='scitech'/><category term='servo'/><category term='twitter'/><category term='gimp'/><category term='openoffice'/><category term='scifi-fantasy'/><category term='talk'/><category term='bitwise_ops'/><category term='steve jobs'/><category term='architecture'/><category term='design'/><category term='raffle'/><category term='winphone'/><category term='crowdsourcing'/><category term='firefoxos'/><category term='life'/><category term='nature'/><category term='software'/><category term='repl'/><category term='jsengine'/><category term='meego'/><category term='h.264'/><category term='regexp'/><category term='jslib'/><category term='gwt'/><category term='distributed-social-network'/><category term='macbook'/><category term='usb'/><category term='flattr'/><category term='marketing'/><category term='2ality'/><category term='example'/><category term='read'/><category term='journalism'/><category term='webpack'/><category term='thunderbird'/><category term='sponsoring'/><category term='bookmarklet'/><category term='guide'/><category term='java'/><category term='ipad'/><category term='unix'/><category term='sponsor'/><category term='webcomponents'/><category term='promises'/><category term='pnacl'/><category term='programming languages'/><category term='voice control'/><category term='humor'/><category term='netflix'/><category term='firefox'/><category term='month'/><category term='dsl'/><category term='typography'/><category term='food'/><category term='oracle'/><category term='facebook flow'/><category term='mobile'/><category term='html5'/><category term='ios'/><category term='shell'/><category term='textbook'/><category term='leopard'/><category term='windows 8'/><category term='facetator'/><category term='hardware'/><category term='advancedjs'/><category term='social'/><category term='linux'/><category term='community'/><category term='foreign languages'/><category term='photo'/><category term='hp'/><category term='home entertainment'/><category term='rodney'/><category term='dart'/><category term='book'/><category term='comic'/><category term='android'/><category term='back to the future'/><category term='esprop'/><category term='npm'/><category term='basic income'/><category term='prism'/><category term='münchen'/><category term='theora'/><category term='yahoo'/><category term='politics'/><category term='intel'/><title type='text'>②ality – JavaScript and more</title><subtitle type='html'></subtitle><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default'/><link rel='alternate' type='text/html' href='http://www.2ality.com/'/><link rel='hub' href='http://pubsubhubbub.appspot.com/'/><link rel='next' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default?start-index=26&amp;max-results=25'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><generator version='7.00' uri='https://www.blogger.com'>Blogger</generator><openSearch:totalResults>1100</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-5533008164331481809</id><published>2016-05-22T11:26:00.001+02:00</published><updated>2016-05-22T17:13:53.192+02:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>Six nifty ES6 tricks</title><content type='html'>
+&lt;p&gt;In this blog post, I show six tricks enabled by new ES6 features. At the end of each section, I point to related material in my book “&lt;a href="http://exploringjs.com/es6/"&gt;Exploring ES6&lt;/a&gt;” (which is free to read online).&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="enforcing-mandatory-parameters-via-parameter-default-values" class="countheads"&gt;Enforcing mandatory parameters via parameter default values&lt;/h3&gt;&lt;p&gt;ES6 parameter default values are only evaluated when they are actually used. That lets you enforce that a given parameter be provided:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    /**
+     * Called if a parameter is missing and
+     * the default value is evaluated.
+     */
+    function mandatory() {
+        throw new Error('Missing parameter');
+    }
+    function foo(mustBeProvided = mandatory()) {
+        return mustBeProvided;
+    }
+&lt;/pre&gt;
+&lt;p&gt;The function call &lt;code&gt;mandatory()&lt;/code&gt; is only made if the parameter &lt;code&gt;mustBeProvided&lt;/code&gt; is missing.&lt;/p&gt;
+&lt;p&gt;Interaction:&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; foo()
+    Error: Missing parameter
+    &amp;gt; foo(123)
+    123
+&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sect. “&lt;a href="http://exploringjs.com/es6/ch_parameter-handling.html#_required-parameters"&gt;Required parameters&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="iterating-over-array-indices-and-elements-via-the-for-of-loop"&gt;Iterating over Array indices and elements via the &lt;code&gt;for-of&lt;/code&gt; loop&lt;/h3&gt;&lt;p&gt;Method &lt;code&gt;forEach()&lt;/code&gt; lets you iterate over the elements of an Array. It also gives you each element’s index, should you want it:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    var arr = ['a', 'b', 'c'];
+    arr.forEach(function (elem, index) {
+        console.log('index = '+index+', elem = '+elem);
+    });
+    // Output:
+    // index = 0, elem = a
+    // index = 1, elem = b
+    // index = 2, elem = c
+&lt;/pre&gt;
+&lt;p&gt;The ES6 &lt;code&gt;for-of&lt;/code&gt; loop is a loop that supports ES6 iteration (via iterables and iterators) and destructuring. If you combine destructuring with the new Array method &lt;code&gt;entries()&lt;/code&gt;, you get:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const arr = ['a', 'b', 'c'];
+    for (const [index, elem] of arr.entries()) {
+        console.log(`index = ${index}, elem = ${elem}`);
+    }
+&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;arr.entries()&lt;/code&gt; returns an iterable over index-element pairs. The destructuring pattern &lt;code&gt;[index, elem]&lt;/code&gt; gives us direct access to both components of each pair. The parameter of &lt;code&gt;console.log()&lt;/code&gt; is a so-called &lt;em&gt;template literal&lt;/em&gt;, which brings string interpolation to JavaScript.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_destructuring.html"&gt;Destructuring&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_iteration.html"&gt;Iterables and iterators&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;li&gt;Sect. “&lt;a href="http://exploringjs.com/es6/ch_for-of.html#_iterating-with-a-destructuring-pattern"&gt;Iterating with a destructuring pattern&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_template-literals.html"&gt;Template literals&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="iterating-over-unicode-code-points"&gt;Iterating over Unicode code points&lt;/h3&gt;&lt;p&gt;Some Unicode &lt;em&gt;code points&lt;/em&gt; (roughly, characters) comprise two JavaScript characters. For example, emojis:&lt;/p&gt;
+
+&lt;p&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;
+&lt;a href="https://2.bp.blogspot.com/-OSNPZIuwA9c/V0F6qIoPoKI/AAAAAAAABNU/94A9dA9wbz4RbV0UhIrr6HziYvz6UDdpgCLcB/s1600/javascript-emoji.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" src="https://2.bp.blogspot.com/-OSNPZIuwA9c/V0F6qIoPoKI/AAAAAAAABNU/94A9dA9wbz4RbV0UhIrr6HziYvz6UDdpgCLcB/s1600/javascript-emoji.png"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Strings implement ES6 iteration. If you iterate over them, you get encoded code points (one or two JavaScript characters). For example:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    for (const ch of 'x\uD83D\uDE80y') {
+        console.log(ch.length);
+    }
+    // Output:
+    // 1
+    // 2
+    // 1
+&lt;/pre&gt;
+&lt;p&gt;That gives you a way to count the number of code points in a string:&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; [...'x\uD83D\uDE80y'].length
+    3
+&lt;/pre&gt;
+&lt;p&gt;The spread operator (&lt;code&gt;...&lt;/code&gt;) inserts the items “in” its operand into an Array.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_unicode.html"&gt;Unicode in ES6&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;li&gt;Sect. “&lt;a href="http://exploringjs.com/es6/ch_parameter-handling.html#sec_spread-operator"&gt;The spread operator (&lt;code&gt;...&lt;/code&gt;)&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="swapping-variable-values-via-destructuring"&gt;Swapping variable values via destructuring&lt;/h3&gt;&lt;p&gt;If you put two variables into an Array and then destructure that Array “into” the same variables, you can swap their values without needing an intermediate variable:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    [a, b] = [b, a];
+&lt;/pre&gt;
+&lt;p&gt;It is conceivable that JavaScript engines will optimize this pattern in the future so that no Array is created.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_destructuring.html"&gt;Destructuring&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="simple-templating-via-template-literals"&gt;Simple templating via template literals&lt;/h3&gt;&lt;p&gt;ES6 template literals are more like string literals than like traditional text templates. But you can use them for templating if you return them from functions:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const tmpl = addrs =&amp;gt; `
+        &amp;lt;table&amp;gt;
+        ${addrs.map(addr =&amp;gt; `
+            &amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;${addr.first}&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+            &amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;${addr.last}&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+        `).join('')}
+        &amp;lt;/table&amp;gt;
+    `;
+&lt;/pre&gt;
+&lt;p&gt;The function &lt;code&gt;tmpl&lt;/code&gt; (an &lt;a href="http://exploringjs.com/es6/ch_arrow-functions.html"&gt;arrow function&lt;/a&gt;) maps the Array &lt;code&gt;addrs&lt;/code&gt; to a string. Let’s use &lt;code&gt;tmpl()&lt;/code&gt; on the Array &lt;code&gt;data&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const data = [
+        { first: '&amp;lt;Jane&amp;gt;', last: 'Bond' },
+        { first: 'Lars', last: '&amp;lt;Croft&amp;gt;' },
+    ];
+    console.log(tmpl(data));
+    // Output:
+    // &amp;lt;table&amp;gt;
+    //
+    //     &amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;&amp;lt;Jane&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+    //     &amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;Bond&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+    //
+    //     &amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;Lars&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+    //     &amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;&amp;lt;Croft&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+    //
+    // &amp;lt;/table&amp;gt;
+&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blog post “&lt;a href="http://www.2ality.com/2016/05/template-literal-whitespace.html"&gt;Handling whitespace in ES6 template literals&lt;/a&gt;”&lt;/li&gt;
+&lt;li&gt;Sect. “&lt;a href="http://exploringjs.com/es6/ch_template-literals.html#_text-templating-via-untagged-template-literals"&gt;Text templating via untagged template literals&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_arrow-functions.html"&gt;Arrow functions&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="simple-mixins-via-subclass-factories"&gt;Simple mixins via subclass factories&lt;/h3&gt;&lt;p&gt;If an ES6 class &lt;code&gt;extends&lt;/code&gt; another class, that class is specified dynamically, via an arbitrary expression (not statically via an identifier):&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    // Function id() simply returns its parameter
+    const id = x =&amp;gt; x;
+    
+    class Foo extends id(Object) {}
+&lt;/pre&gt;
+&lt;p&gt;That allows you to implement a mixin as a function that maps a class &lt;code&gt;C&lt;/code&gt; to a new class (with the mixin methods) whose superclass is &lt;code&gt;C&lt;/code&gt;. For example, the following two functions &lt;code&gt;Storage&lt;/code&gt; and &lt;code&gt;Validation&lt;/code&gt; are mixins:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const Storage = Sup =&amp;gt; class extends Sup {
+        save(database) { ··· }
+    };
+    const Validation = Sup =&amp;gt; class extends Sup {
+        validate(schema) { ··· }
+    };
+&lt;/pre&gt;
+&lt;p&gt;You can use them to compose a class &lt;code&gt;Employee&lt;/code&gt; as follows.&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class Person { ··· }
+    class Employee extends Storage(Validation(Person)) { ··· }
+&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;More information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sect. “&lt;a href="http://exploringjs.com/es6/ch_classes.html#_simple-mixins"&gt;Simple mixins&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;p&gt;Two chapters of “Exploring ES6” give a good overview of ECMAScript 6:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://exploringjs.com/es6/ch_overviews.html"&gt;An overview of what’s new in ES6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://exploringjs.com/es6/ch_first-steps.html"&gt;First steps with ECMAScript 6&lt;/a&gt; [features that are easy to adopt]&lt;/li&gt;
+&lt;/ul&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/5533008164331481809/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=5533008164331481809' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5533008164331481809'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5533008164331481809'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/05/six-nifty-es6-tricks.html' title='Six nifty ES6 tricks'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='https://2.bp.blogspot.com/-OSNPZIuwA9c/V0F6qIoPoKI/AAAAAAAABNU/94A9dA9wbz4RbV0UhIrr6HziYvz6UDdpgCLcB/s72-c/javascript-emoji.png' height='72' width='72'/><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-4018654698283258000</id><published>2016-05-15T16:05:00.001+02:00</published><updated>2016-05-15T16:20:05.860+02:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='template literals'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>Handling whitespace in ES6 template literals</title><content type='html'>
+&lt;p&gt;In this blog post, we look at problems that arise when template literals contain whitespace:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Breaking up long lines&lt;/li&gt;
+&lt;li&gt;Dedenting content&lt;/li&gt;
+&lt;li&gt;Joining Arrays&lt;/li&gt;
+&lt;li&gt;Indenting inserted content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;p&gt;I’m using the library &lt;a href="https://github.com/declandewet/common-tags"&gt;common-tags&lt;/a&gt; by &lt;a href="https://twitter.com/declanjdewet"&gt;Declan de Wet&lt;/a&gt; (with “useful template literal tags for dealing with strings in ES6”) to demonstrate solutions for some of these problems.&lt;/p&gt;
+&lt;h3 id="breaking-up-long-lines" class="countheads"&gt;Breaking up long lines&lt;/h3&gt;&lt;p&gt;Occasionally, you have long lines that you want to break up. common-tag’s tag function &lt;code&gt;oneLine&lt;/code&gt; lets you do that:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    console.log(oneLine`
+    a
+    single
+    line
+    with
+    many
+    words
+    `);
+    // a single line with many words
+&lt;/pre&gt;
+&lt;h3 id="dedenting-content"&gt;Dedenting content&lt;/h3&gt;&lt;p&gt;Template literals let you embed multi-line text content inside JavaScript. The main challenge is that the text must both have proper indentation and fit nicely into its JavaScript surroundings:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function foo() {
+        console.log(`&amp;lt;ul&amp;gt;
+        &amp;lt;li&amp;gt;first&amp;lt;/li&amp;gt;
+        &amp;lt;li&amp;gt;second&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;`);    
+    }
+&lt;/pre&gt;
+&lt;p&gt;This does not look good: The initial &lt;code&gt;&amp;lt;ul&amp;gt;&lt;/code&gt; is out of place at the end of the line and subsequent lines don’t respect JavaScript’s indentation. The output of &lt;code&gt;foo()&lt;/code&gt; looks like this:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    &amp;lt;ul&amp;gt;
+        &amp;lt;li&amp;gt;first&amp;lt;/li&amp;gt;
+        &amp;lt;li&amp;gt;second&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+&lt;/pre&gt;
+&lt;p&gt;As a work-around one can use &lt;code&gt;trim()&lt;/code&gt; to gain more freedom w.r.t. the first and the last line:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function foo() {
+        console.log(`
+    &amp;lt;ul&amp;gt;
+        &amp;lt;li&amp;gt;first&amp;lt;/li&amp;gt;
+        &amp;lt;li&amp;gt;second&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+    `.trim());    
+    }
+&lt;/pre&gt;
+&lt;p&gt;The output is the same and the embedded text looks nicer, but the indentation problem remains.&lt;/p&gt;
+&lt;p&gt;A tag function like common-tag’s &lt;code&gt;stripIndent&lt;/code&gt; can help:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function foo() {
+        const ul = stripIndent`
+            &amp;lt;ul&amp;gt;
+                &amp;lt;li&amp;gt;first&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;second&amp;lt;/li&amp;gt;
+            &amp;lt;/ul&amp;gt;
+            `;    
+    }
+&lt;/pre&gt;
+&lt;p&gt;The idea is to determine which line has the smallest indent and to remove that indent from all lines. Additionally, leading and trailing whitespace is trimmed.&lt;/p&gt;
+&lt;h3 id="joining-arrays"&gt;Joining Arrays&lt;/h3&gt;&lt;p&gt;If you use template literals for templating, you often write code like this:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    console.log(stripIndent`
+        &amp;lt;ul&amp;gt;
+            ${['foo', 'bar'].map(x =&amp;gt; `&amp;lt;li&amp;gt;${x}&amp;lt;/li&amp;gt;`).join('\n')}
+        &amp;lt;/ul&amp;gt;
+    `);
+&lt;/pre&gt;
+&lt;p&gt;The problem is that the output is not properly indented:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    &amp;lt;ul&amp;gt;
+            &amp;lt;li&amp;gt;foo&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;bar&amp;lt;/li&amp;gt;
+        &amp;lt;/ul&amp;gt;
+&lt;/pre&gt;
+&lt;p&gt;That’s because the line breaks inserted via &lt;code&gt;join()&lt;/code&gt; are not followed by the correct indentation.&lt;/p&gt;
+&lt;p&gt;common-tags has the tag function &lt;code&gt;html&lt;/code&gt; which detects Arrays returned from substitutions (&lt;code&gt;${}&lt;/code&gt;) and inserts them correctly. No need for &lt;code&gt;join()&lt;/code&gt;, anymore:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    console.log(html`
+        &amp;lt;ul&amp;gt;
+            ${['foo', 'bar'].map(x =&amp;gt; `&amp;lt;li&amp;gt;${x}&amp;lt;/li&amp;gt;`)}
+        &amp;lt;/ul&amp;gt;
+    `);
+&lt;/pre&gt;
+&lt;p&gt;Now the output looks like this:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    &amp;lt;ul&amp;gt;
+        &amp;lt;li&amp;gt;foo&amp;lt;/li&amp;gt;
+        &amp;lt;li&amp;gt;bar&amp;lt;/li&amp;gt;
+    &amp;lt;/ul&amp;gt;
+&lt;/pre&gt;
+&lt;h3 id="indenting-inserted-content"&gt;Indenting inserted content&lt;/h3&gt;&lt;p&gt;Alas, common-tags does not indent inserted strings correctly:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    console.log(`
+        &amp;lt;ul&amp;gt;
+            ${'&amp;lt;li&amp;gt;foo&amp;lt;/li&amp;gt;\n&amp;lt;li&amp;gt;bar&amp;lt;/li&amp;gt;'}
+        &amp;lt;/ul&amp;gt;
+        `);
+&lt;/pre&gt;
+&lt;p&gt;Here, the output is:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    &amp;lt;ul&amp;gt;
+            &amp;lt;li&amp;gt;foo&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;bar&amp;lt;/li&amp;gt;
+        &amp;lt;/ul&amp;gt;
+&lt;/pre&gt;
+&lt;p&gt;The line break between the &lt;code&gt;&amp;lt;/li&amp;gt;&lt;/code&gt; and the &lt;code&gt;&amp;lt;li&amp;gt;&lt;/code&gt; is not followed by the correct indentation.&lt;/p&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_template-literals.html#_a-tag-function-for-html-templating"&gt;Template literals&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;li&gt;Sect. “&lt;a href="http://exploringjs.com/es6/ch_template-literals.html#_text-templating-via-untagged-template-literals"&gt;Text templating via untagged template literals&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/4018654698283258000/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=4018654698283258000' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/4018654698283258000'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/4018654698283258000'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/05/template-literal-whitespace.html' title='Handling whitespace in ES6 template literals'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-7790124307947792243</id><published>2016-04-17T17:55:00.000+02:00</published><updated>2016-04-17T18:05:56.538+02:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='async'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><category scheme='http://www.blogger.com/atom/ns#' term='promises'/><title type='text'>Trees of Promises in ES6</title><content type='html'>
+&lt;p&gt;This blog post shows how to handle trees of &lt;a href="http://exploringjs.com/es6/ch_promises.html"&gt;ES6 Promises&lt;/a&gt;, via an example where the contents of a directory are listed asynchronously.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="the-challenge" class="countheads"&gt;The challenge&lt;/h3&gt;&lt;p&gt;We’d like to implement a Promise-based asynchronous function &lt;code&gt;listFile(dir)&lt;/code&gt; whose result is an Array with the paths of the files in the directory &lt;code&gt;dir&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;As an example, consider the following invocation:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    listFiles('/tmp/dir')
+    .then(files =&amp;gt; {
+        console.log(files.join('\n'));
+    });
+&lt;/pre&gt;
+&lt;p&gt;One possible output is:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    /tmp/dir/bar.txt
+    /tmp/dir/foo.txt
+    /tmp/dir/subdir/baz.txt
+&lt;/pre&gt;
+&lt;h3 id="the-solution"&gt;The solution&lt;/h3&gt;&lt;p&gt;For our solution, we create Promise-based versions of the two Node.js functions &lt;a href="https://nodejs.org/api/fs.html#fs_fs_readdir_path_callback"&gt;&lt;code&gt;fs.readdir()&lt;/code&gt;&lt;/a&gt; and &lt;a href="https://nodejs.org/api/fs.html#fs_fs_stat_path_callback"&gt;&lt;code&gt;fs.stat()&lt;/code&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    readdirAsync(dirpath) : Promise&amp;lt;Array&amp;lt;string&amp;gt;&amp;gt;
+    statAsync(filepath) : Promise&amp;lt;Stats&amp;gt;
+&lt;/pre&gt;
+&lt;p&gt;We do so via &lt;a href="https://github.com/matthew-andrews/denodeify"&gt;the library function &lt;code&gt;denodify&lt;/code&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    import denodeify from 'denodeify';
+    
+    import {readdir,stat} from 'fs';
+    const readdirAsync = denodeify(readdir);
+    const statAsync = denodeify(stat);
+&lt;/pre&gt;
+&lt;p&gt;Additionally, we need &lt;a href="https://nodejs.org/api/path.html#path_path_resolve_from_to"&gt;&lt;code&gt;path.resolve(p0, p1, p2, ···)&lt;/code&gt;&lt;/a&gt; which starts with the path &lt;code&gt;p0&lt;/code&gt; and resolves &lt;code&gt;p1&lt;/code&gt; relatively to it to produce a new path. Then it continues with resolving &lt;code&gt;p2&lt;/code&gt; relatively to the new path. Et cetera.&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    import {resolve} from 'path';
+&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;listFiles()&lt;/code&gt; is implemented as follows:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function listFiles(filepath) {
+        return statAsync(filepath) // (A)
+        .then(stats =&amp;gt; {
+            if (stats.isDirectory()) { // (B)
+                return readdirAsync(filepath) // (C)
+                // Ensure result is deterministic:
+                .then(childNames =&amp;gt; childNames.sort())
+                .then(sortedNames =&amp;gt;
+                    Promise.all( // (D)
+                        sortedNames.map(childName =&amp;gt; // (E)
+                            listFiles(resolve(filepath, childName)) ) ) )
+                .then(subtrees =&amp;gt; {
+                    // Concatenate the elements of `subtrees`
+                    // into a single Array (explained later)
+                    return flatten(subtrees); // (F)
+                });
+            } else {
+                return [ filepath ];
+            }
+        });    
+    }
+&lt;/pre&gt;
+&lt;p&gt;Two invocations of Promise-based functions are relatively straightforward:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;statAsync()&lt;/code&gt; (line A) returns an instance of &lt;code&gt;Stats&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;readdirAsync()&lt;/code&gt; (line C) returns an Array with filenames.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The interesting part is when &lt;code&gt;listFiles()&lt;/code&gt; calls itself, recursively, leading to an actual tree of Promises. It does so in several steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;First, it maps the names of the child files to Promises that fulfill with Arrays of grandchild paths (line E).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It uses &lt;code&gt;Promise.all()&lt;/code&gt; to wait until all results are in (line D).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Once all results are in, it flattens the Array of Arrays of paths into an Array (line F). That Array fulfills the last Promise of the chain that starts in line C.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that synchronous programming constructs are used to compose Promises:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;if&lt;/code&gt; statement in line B decides how to continue the asynchronous computation.&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;map()&lt;/code&gt; method in line E is used to make recursive calls.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="helper-function-flatten%28%29"&gt;Helper function &lt;code&gt;flatten()&lt;/code&gt;&lt;/h4&gt;&lt;p&gt;The tool function &lt;code&gt;flatten(arr)&lt;/code&gt; concatenates all the elements of &lt;code&gt;arr&lt;/code&gt; into a single Array (one-level flattening). For example:&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; flatten([[0], [], [1, [2]]])
+    [ 0, 1, [ 2 ] ]
+&lt;/pre&gt;
+&lt;p&gt;It can be implemented like this:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function flatten(arr) {
+        return [].concat(...arr);
+    }
+&lt;/pre&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Chapter “&lt;a href="http://exploringjs.com/es6/ch_promises.html"&gt;Promises for asynchronous programming&lt;/a&gt;” in ”Exploring ES6”.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/7790124307947792243/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=7790124307947792243' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/7790124307947792243'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/7790124307947792243'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/04/promise-trees.html' title='Trees of Promises in ES6'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-1917151693059630134</id><published>2016-04-12T13:55:00.002+02:00</published><updated>2016-04-12T13:56:05.120+02:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='async'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><category scheme='http://www.blogger.com/atom/ns#' term='promises'/><title type='text'>Tracking unhandled rejected Promises</title><content type='html'>
+&lt;p&gt;In Promise-based asynchronous code, rejections are used for error handling. One risk is that rejections may get lost, leading to silent failures. For example:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function main() {
+        asyncFunc()
+        .then(···)
+        .then(() =&amp;gt; console.log('Done!'));
+    }
+&lt;/pre&gt;
+&lt;p&gt;If &lt;code&gt;asyncFunc()&lt;/code&gt; rejects the Promise it returns then that rejection will never be handled anywhere.&lt;/p&gt;
+&lt;p&gt;Let’s look at how you can track unhandled rejections in browsers and in Node.js.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="unhandled-rejections-in-browsers" class="countheads"&gt;Unhandled rejections in browsers&lt;/h3&gt;&lt;p&gt;Some browsers (only Chrome at the moment) report unhandled rejections.&lt;/p&gt;
+&lt;h4 id="unhandledrejection"&gt;&lt;code&gt;unhandledrejection&lt;/code&gt;&lt;/h4&gt;&lt;p&gt;Before a rejection is reported, an event is dispatched that you can listen to:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    window.addEventListener('unhandledrejection', event =&amp;gt; ···);
+&lt;/pre&gt;
+&lt;p&gt;The event is an instance of &lt;code&gt;PromiseRejectionEvent&lt;/code&gt; whose two most important properties are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;promise&lt;/code&gt;: the Promise that was rejected&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;reason&lt;/code&gt;: the value with which the Promise was rejected&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following example demonstrates how this event works:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    window.addEventListener('unhandledrejection', event =&amp;gt; {
+        // Prevent error output on the console:
+        event.preventDefault();
+        console.log('Reason: ' + event.reason);
+    });
+    
+    function foo() {
+        Promise.reject('abc');
+    }
+    foo();
+&lt;/pre&gt;
+&lt;p&gt;The output of this code is:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    Reason: abc
+&lt;/pre&gt;
+&lt;h4 id="rejectionhandled"&gt;&lt;code&gt;rejectionhandled&lt;/code&gt;&lt;/h4&gt;&lt;p&gt;If a rejection is initially unhandled, but taken care of later then &lt;code&gt;rejectionhandled&lt;/code&gt; is dispatched. You listen to it as follows:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    window.addEventListener('rejectionhandled', event =&amp;gt; ···);
+&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;event&lt;/code&gt; is also an instance of &lt;code&gt;PromiseRejectionEvent&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The following code demonstrates &lt;code&gt;rejectionhandled&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    window.addEventListener('unhandledrejection', event =&amp;gt; {
+        // Prevent error output on the console:
+        event.preventDefault();
+        console.log('Reason: ' + event.reason);
+    });
+    window.addEventListener('rejectionhandled', event =&amp;gt; {
+        console.log('REJECTIONHANDLED');
+    });
+    
+    
+    function foo() {
+        return Promise.reject('abc');
+    }
+    var r = foo();
+    setTimeout(() =&amp;gt; {
+        r.catch(e =&amp;gt; {});
+    }, 0);
+&lt;/pre&gt;
+&lt;p&gt;This code outputs:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    Reason: abc
+    REJECTIONHANDLED
+&lt;/pre&gt;
+&lt;h4 id="further-reading"&gt;Further reading&lt;/h4&gt;&lt;p&gt;The Chrome Platform Status site links to a “&lt;a href="https://googlechrome.github.io/samples/promise-rejection-events/"&gt;Promise Rejection Events Sample&lt;/a&gt;” that contains an explanation and code.&lt;/p&gt;
+&lt;h3 id="unhandled-rejections-in-node.js"&gt;Unhandled rejections in Node.js&lt;/h3&gt;&lt;p&gt;Node.js does not report unhandled rejections, but it emits events for them. You can register an event listener like this:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    process.on('unhandledRejection', (reason, promise) =&amp;gt; ···);
+&lt;/pre&gt;
+&lt;p&gt;The following code demonstrates how the event works:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    process.on('unhandledRejection', (reason) =&amp;gt; {
+        console.log('Reason: ' + reason);
+    });
+    function foo() {
+        Promise.reject('abc');
+    }
+    foo();
+&lt;/pre&gt;
+&lt;h4 id="further-reading_2"&gt;Further reading&lt;/h4&gt;&lt;p&gt;The Node.js documentation has &lt;a href="https://nodejs.org/api/process.html#process_event_unhandledrejection"&gt;more information on the Event &lt;code&gt;unhandledRejection&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/1917151693059630134/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=1917151693059630134' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/1917151693059630134'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/1917151693059630134'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/04/unhandled-rejections.html' title='Tracking unhandled rejected Promises'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-8621145454440334173</id><published>2016-03-25T19:52:00.000+01:00</published><updated>2016-03-28T13:43:19.625+02:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='async'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><category scheme='http://www.blogger.com/atom/ns#' term='promises'/><title type='text'>Promise-based functions should not throw exceptions</title><content type='html'>
+&lt;p&gt;This blog post gives tips for error handling in asynchronous, Promise-based functions.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="operational-errors-vs.-programmer-errors" class="countheads"&gt;Operational errors vs. programmer errors&lt;/h3&gt;&lt;p&gt;In programs, there are two kinds of errors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Operational errors&lt;/em&gt; happen when a correct program encounters an exceptional situation that requires deviating from the “normal” algorithm. For example, a storage device may run out of memory while the program is writing data to it. This kind of error is expected.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Programmer errors&lt;/em&gt; happen when code does something wrong. For example, a function may require a parameter to be a string, but receives a number. This kind of error is unexpected.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="operational-errors-dont-mix-rejections-and-exceptions"&gt;Operational errors: don’t mix rejections and exceptions&lt;/h4&gt;&lt;p&gt;For operational errors, each function should support exactly one way of signaling errors. For Promise-based functions that means not mixing rejections and exceptions, which is the same as saying that they shouldn’t throw exceptions.&lt;/p&gt;
+&lt;h4 id="programmer-errors-fail-quickly"&gt;Programmer errors: fail quickly&lt;/h4&gt;&lt;p&gt;For programmer errors, it usually makes sense to fail as quickly as possible:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function downloadFile(url) {
+        if (typeof url !== 'string') {
+            throw new Error('Illegal argument: ' + url);
+        }
+        return new Promise(···).
+    }
+&lt;/pre&gt;
+&lt;p&gt;Note that this is not a hard and fast rule. You have to decide whether or not you can handle exceptions in a meaningful way in your asynchronous code.&lt;/p&gt;
+&lt;h3 id="handling-exceptions-in-promise-based-functions"&gt;Handling exceptions in Promise-based functions&lt;/h3&gt;&lt;p&gt;If exceptions are thrown inside the callbacks of &lt;code&gt;then()&lt;/code&gt; and &lt;code&gt;catch()&lt;/code&gt; then that’s not a problem, because these two methods convert them to rejections.&lt;/p&gt;
+&lt;p&gt;However, things are different if you start your async function by doing something synchronous:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function asyncFunc() {
+        doSomethingSync(); // (A)
+        return doSomethingAsync()
+        .then(result =&amp;gt; {
+            ···
+        });
+    }
+&lt;/pre&gt;
+&lt;p&gt;If an exception is thrown in line A then the whole function throws an exception. There are two solutions to this problem.&lt;/p&gt;
+&lt;h4 id="solution-1-returning-a-rejected-promise"&gt;Solution 1: returning a rejected Promise&lt;/h4&gt;&lt;p&gt;You can catch exceptions and return them as rejected Promises:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function asyncFunc() {
+        try {
+            doSomethingSync();
+            return doSomethingAsync()
+            .then(result =&amp;gt; {
+                ···
+            });
+        } catch (err) {
+            return Promise.reject(err);
+        }
+    }
+&lt;/pre&gt;
+&lt;h4 id="solution-2-executing-the-sync-code-inside-a-callback"&gt;Solution 2: executing the sync code inside a callback&lt;/h4&gt;&lt;p&gt;You can also start a chain of &lt;code&gt;then()&lt;/code&gt; method calls via &lt;code&gt;Promise.resolve()&lt;/code&gt; and execute the synchronous code inside a callback:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function asyncFunc() {
+        return Promise.resolve()
+        .then(() =&amp;gt; {
+            doSomethingSync();
+            return doSomethingAsync();
+        })
+        .then(result =&amp;gt; {
+            ···
+        });
+    }
+&lt;/pre&gt;
+&lt;p&gt;An alternative is to start the Promise chain via the Promise constructor:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function asyncFunc() {
+        return new Promise((resolve, reject) =&amp;gt; {
+            doSomethingSync();
+            resolve(doSomethingAsync());
+        })
+        .then(result =&amp;gt; {
+            ···
+        });
+    }
+&lt;/pre&gt;
+&lt;p&gt;This approach saves you a tick (the synchronous code is executed right away), but it makes your code less regular.&lt;/p&gt;
+&lt;h3 id="async-functions-and-exceptions"&gt;Async functions and exceptions&lt;/h3&gt;&lt;p&gt;&lt;a href="https://twitter.com/bterlson/status/713402741733785600"&gt;Brian Terlson points out&lt;/a&gt; that &lt;a href="http://www.2ality.com/2016/02/async-functions.html"&gt;async functions&lt;/a&gt; reflect a preference for not mixing exceptions and rejections: Originally, if an async function had a default value that threw an exception then the function would throw an exception. Now, the function rejects the Promise it returns.&lt;/p&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;“&lt;a href="https://www.joyent.com/developers/node/design/errors"&gt;Error Handling in Node.js&lt;/a&gt;” by Joyent&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2016/02/async-functions.html"&gt;ES proposal: async functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://exploringjs.com/es6/ch_promises.html"&gt;Promises for asynchronous programming&lt;/a&gt; [chapter in “Exploring ES6”]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Acknowledgements:&lt;/strong&gt; this post was inspired by &lt;a href="https://groups.google.com/forum/#!msg/exploring-es6/PxSk6lmcd6A/B2Aq-onFBwAJ"&gt;a post by user Mörre Noseshine&lt;/a&gt; in the “Exploring ES6” Google Group. Im also thankful for the feedback to &lt;a href="https://twitter.com/rauschma/status/713371400686473216"&gt;a tweet&lt;/a&gt; asking whether it is OK to throw exceptions from Promise-based functions.&lt;/p&gt;
+
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/8621145454440334173/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=8621145454440334173' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/8621145454440334173'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/8621145454440334173'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html' title='Promise-based functions should not throw exceptions'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-5653712594756394940</id><published>2016-03-20T23:03:00.000+01:00</published><updated>2016-03-20T23:08:22.936+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='npm'/><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>The need for multi-platform npm packages</title><content type='html'>
+&lt;p&gt;In this blog post, I argue that it should be possible to have multiple implementations of the same npm package (same name, same version).&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="the-problem" class="countheads"&gt;The problem&lt;/h3&gt;&lt;p&gt;At the moment, when you write an npm package, you can specify on what platforms it works, via the &lt;code&gt;package.json&lt;/code&gt; property &lt;code&gt;engines&lt;/code&gt;. &lt;a href="https://docs.npmjs.com/files/package.json"&gt;For example&lt;/a&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    { "engines" : { "node" : "&amp;gt;=0.10.3 &amp;lt;0.12" } }
+    { "engines" : { "npm" : "~1.0.20" } }
+&lt;/pre&gt;
+&lt;p&gt;That means that you can only have a single implementation per package. However, there are use cases for multiple implementations of the same package:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For Node.js you can already use many ES6 features. For browsers, you should stay 100% ES5.&lt;/li&gt;
+&lt;li&gt;There are Node.js-specific polyfills of Browser APIs. For example, &lt;a href="https://github.com/bitinn/node-fetch"&gt;&lt;code&gt;node-fetch&lt;/code&gt;&lt;/a&gt; polyfills the fetch API.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rollup/rollup"&gt;The module bundler Rollup&lt;/a&gt; needs the ES6 module format to achieve its superior file size savings. But that format doesn’t work anywhere else, yet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="an-idea-for-a-solution"&gt;An idea for a solution&lt;/h3&gt;&lt;p&gt;I see two possible solutions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow the same package (same name, same version) to exist multiple times, targeting different platforms via property &lt;code&gt;engines&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Allow packages with multiple versions of the properties &lt;code&gt;main&lt;/code&gt; and &lt;code&gt;bin&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The latter solution could lead to &lt;code&gt;package.json&lt;/code&gt; files that look like this:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    "engines": [
+        {
+            "node": "&amp;gt;=0.10.3 &amp;lt;0.12",
+            "main": "./es5/index.js",
+            "bin": { "foo": "./es5/bin/foo.js" }
+        },
+        {
+            "ecmascript": "&amp;gt;=2015",
+            "main": "./es2015/index.js",
+            "bin": { "foo": "./es2015/bin/foo.js" }
+        }
+    ],
+&lt;/pre&gt;
+&lt;p&gt;Mixing selection criteria (meta-data) and data is not ideal. This is an alternative:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    "engines": {
+        "node &amp;gt;= 0.10.3, node &amp;lt; 0.12": {
+            "main": "./es5/index.js",
+            "bin": { "foo": "./es5/bin/foo.js" }
+        },
+        "ecmascript &amp;gt;= 2015": {
+            "main": "./es2015/index.js",
+            "bin": { "foo": "./es2015/bin/foo.js" }
+        }
+    },
+&lt;/pre&gt;
+&lt;p&gt;The selection criteria should include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Browsers vs. Node.js&lt;/li&gt;
+&lt;li&gt;Supported ECMAScript version&lt;/li&gt;
+&lt;li&gt;Module format: native (ES6) vs. CommonJS vs. AMD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="other-solutions"&gt;Other solutions&lt;/h3&gt;&lt;h4 id="ecosystems"&gt;Ecosystems&lt;/h4&gt;&lt;p&gt;I have only seen &lt;a href="http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this#ecosystems"&gt;a brief mention of npm ecosystems&lt;/a&gt;, so far. I’m not sure how exactly they would work, but it sounds like they could solve the problem I’ve described here.&lt;/p&gt;
+&lt;h4 id="jsnextmain"&gt;&lt;code&gt;jsnext:main&lt;/code&gt;&lt;/h4&gt;&lt;p&gt;&lt;code&gt;jsnext:main&lt;/code&gt; is a custom property that Rollup uses to point to an ES6 module version of the &lt;code&gt;main&lt;/code&gt; file. The problem with this approach (apart from the less-than-ideal property name) is that it can only handle a single alternate implementation with a fixed format.&lt;/p&gt;
+&lt;p&gt;More information on &lt;code&gt;jsnext:main&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/rollup/rollup/wiki/jsnext:main"&gt;jsnext:main&lt;/a&gt; (Rollup wiki)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/jsforum/jsforum/issues/5"&gt;jsnext:main – should we use it, and what for?&lt;/a&gt; (jsforum)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="jspm"&gt;jspm&lt;/h4&gt;&lt;p&gt;The package manager jspm extends &lt;code&gt;package.json&lt;/code&gt; with, among others, the property &lt;code&gt;format&lt;/code&gt; whose value can be &lt;code&gt;esm&lt;/code&gt; (for ECMAScript module), &lt;code&gt;amd&lt;/code&gt;, &lt;code&gt;cjs&lt;/code&gt; or &lt;code&gt;global&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Additionally, you have the option to nest jspm-specific properties via the custom property &lt;code&gt;jspm&lt;/code&gt;. For example:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    {
+        "name": "my-package",
+        "jspm": {
+            "main": "jspm-main"
+        }
+    }
+&lt;/pre&gt;
+&lt;p&gt;More information: “&lt;a href="https://github.com/jspm/registry/wiki/Configuring-Packages-for-jspm"&gt;Configuring Packages for jspm&lt;/a&gt;”.&lt;/p&gt;
+&lt;h3 id="feedback%3F"&gt;Feedback?&lt;/h3&gt;&lt;p&gt;Feedback welcome! Did I miss anything? Are other (better?) solutions out there?&lt;/p&gt;
+
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/5653712594756394940/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=5653712594756394940' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5653712594756394940'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5653712594756394940'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/03/multi-platform-npm-packages.html' title='The need for multi-platform npm packages'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-2985389133111783862</id><published>2016-02-24T12:32:00.002+01:00</published><updated>2016-02-24T12:32:56.952+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><category scheme='http://www.blogger.com/atom/ns#' term='coding'/><title type='text'>Arrow functions vs. bind()</title><content type='html'>
+&lt;p&gt;ES6 arrow functions are often a compelling alternative to &lt;code&gt;Function.prototype.bind()&lt;/code&gt;.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="extracting-methods" class="countheads"&gt;Extracting methods&lt;/h3&gt;&lt;p&gt;If an extracted method is to work as a callback, you must specify a fixed &lt;code&gt;this&lt;/code&gt;, otherwise it will be invoked as a function (and &lt;code&gt;this&lt;/code&gt; will be &lt;code&gt;undefined&lt;/code&gt; or the global object). For example:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    obj.on('anEvent', console.log.bind(console))
+&lt;/pre&gt;
+&lt;p&gt;An alternative is to use an arrow function:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    obj.on('anEvent', x =&amp;gt; console.log(x))
+&lt;/pre&gt;
+&lt;h3 id="this-via-parameters"&gt;&lt;code&gt;this&lt;/code&gt; via parameters&lt;/h3&gt;&lt;p&gt;The following code demonstrates a neat trick: For some methods, you don’t need &lt;code&gt;bind()&lt;/code&gt; for a callback, because they let you specify the value of &lt;code&gt;this&lt;/code&gt;, via an additional parameter. &lt;code&gt;filter()&lt;/code&gt; is one such method:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const as = new Set([1, 2, 3]);
+    const bs = new Set([3, 2, 4]);
+    const intersection = [...as].filter(bs.has, bs);
+        // [2, 3]
+&lt;/pre&gt;
+&lt;p&gt;However, this code is easier to understand if you use an arrow function:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const as = new Set([1, 2, 3]);
+    const bs = new Set([3, 2, 4]);
+    const intersection = [...as].filter(a =&amp;gt; bs.has(a));
+        // [2, 3]
+&lt;/pre&gt;
+&lt;h3 id="partial-evaluation"&gt;Partial evaluation&lt;/h3&gt;&lt;p&gt;&lt;code&gt;bind()&lt;/code&gt; enables you to do &lt;a href="http://www.2ality.com/2011/09/currying-vs-part-eval.html"&gt;&lt;em&gt;partial evaluation&lt;/em&gt;&lt;/a&gt;, you can create new functions by filling in parameters of an existing function:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function add(x, y) {
+        return x + y;
+    }
+    const plus1 = add.bind(undefined, 1);
+&lt;/pre&gt;
+&lt;p&gt;Again, I find an arrow function easier to understand:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const plus1 = y =&amp;gt; add(1, y);
+&lt;/pre&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2011/09/currying-vs-part-eval.html"&gt;Currying versus partial application (with JavaScript code)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2011/11/uncurrying-this.html"&gt;Uncurrying &lt;code&gt;this&lt;/code&gt; in JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/2985389133111783862/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=2985389133111783862' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/2985389133111783862'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/2985389133111783862'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/02/arrow-functions-vs-bind.html' title='Arrow functions vs. bind()'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-4024296469905460601</id><published>2016-02-22T13:54:00.000+01:00</published><updated>2016-02-22T16:15:12.039+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>Examples of name clashes in JavaScript’s standard library</title><content type='html'>
+&lt;p&gt;The main use case for &lt;a href="http://exploringjs.com/es6/ch_symbols.html"&gt;ES6 symbols&lt;/a&gt; is that you can use them as property keys that can’t clash with other property keys.&lt;/p&gt;
+&lt;p&gt;In case you think that name clashes don’t matter, here are three examples of where name clashes caused problems in the evolution of the JavaScript standard library:&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;When the new method &lt;a href="http://exploringjs.com/es6/ch_arrays.html#_iterating-over-arrays"&gt;&lt;code&gt;Array.prototype.values()&lt;/code&gt;&lt;/a&gt; was created, it broke existing code where &lt;code&gt;with&lt;/code&gt; was used with an Array and shadowed a variable &lt;code&gt;values&lt;/code&gt; in an outer scope (&lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=881782"&gt;bug report 1&lt;/a&gt;, &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=883914"&gt;bug report 2&lt;/a&gt;). Therefore, a mechanism was introduced to hide properties from &lt;code&gt;with&lt;/code&gt; (&lt;a href="http://exploringjs.com/es6/ch_oop-besides-classes.html#_property-key-symbolunscopables-object"&gt;&lt;code&gt;Symbol.unscopables&lt;/code&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;String.prototype.contains&lt;/code&gt; clashed with a method added by MooTools and had to be renamed to &lt;a href="http://exploringjs.com/es6/ch_strings.html"&gt;&lt;code&gt;String.prototype.includes&lt;/code&gt;&lt;/a&gt; (&lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=789036"&gt;bug report&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The upcoming &lt;code&gt;Array.prototype.contains&lt;/code&gt; also clashed with a method added by MooTools and had to be renamed to &lt;a href="http://www.2ality.com/2016/02/array-prototype-includes.html"&gt;&lt;code&gt;Array.prototype.includes&lt;/code&gt;&lt;/a&gt; (&lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1075059"&gt;bug report&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In contrast, &lt;a href="http://exploringjs.com/es6/ch_iteration.html"&gt;adding iterability to an object via the property key &lt;code&gt;Symbol.iterator&lt;/code&gt;&lt;/a&gt; can’t cause problems, because that key doesn’t clash with anything.&lt;/p&gt;
+&lt;p&gt;These examples demonstrate what it means to be a web language: backward compatibility is crucial, which is why compromises are occasionally necessary when evolving the language. As a side benefit, evolving old JavaScript code bases is simpler, too, because new ECMAScript versions never (well, hardly ever) break them.&lt;/p&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/4024296469905460601/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=4024296469905460601' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/4024296469905460601'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/4024296469905460601'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/02/js-name-clashes.html' title='Examples of name clashes in JavaScript’s standard library'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-3758803525795198987</id><published>2016-02-11T13:28:00.002+01:00</published><updated>2016-02-11T14:15:02.253+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><title type='text'>JavaScript fatigue fatigue</title><content type='html'>
+&lt;p&gt;Enough with the fatigue – tips against feeling overwhelmed:&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Don’t try to know everything – it’s impossible in modern web development. Given that there is always more to know, it doesn’t matter that much what you learn (unless you have a specific need).&lt;ul&gt;
+&lt;li&gt;Go for depth in areas you love.&lt;/li&gt;
+&lt;li&gt;Go for breadth and on-demand learning in areas you are merely interested in or think you should know more about.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Wait for the critical mass. You can often afford to get started by reading the opinions of people you trust and wait it out until new ideas prove themselves.&lt;/li&gt;
+&lt;li&gt;Stick to things you understand: don’t use more than 1–2 new technologies per project.&lt;ul&gt;
+&lt;li&gt;It’s important to retain at least some feeling of control.&lt;/li&gt;
+&lt;li&gt;Every technology that people need to learn before they can use your project raises the barrier of entry and makes it more difficult to find collaborators, colleagues and employees.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Do exploratory toy projects: I like creating small projects that explore technologies or aspects of technologies.&lt;/li&gt;
+&lt;li&gt;Diversify in life: Specializing is good, but it’s also good to have regular activities not related to tech and/or brain. The advantage is that if you are frustrated in one area of your life, you have others to fall back on.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Even with the last of the previous tips, I find it important to remain human. Don’t overdo discipline, don’t become a life improvement machine. Periods of boredom and doing nothing are important for recuperating and inspiration.&lt;/p&gt;
+&lt;p&gt;When in doubt about what to learn next, you can always go back to fundamentals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;JavaScript, CSS, etc. (which technologies are fundamental depends on your work)&lt;/li&gt;
+&lt;li&gt;Non-technological skills: time management, social skills (communication, team building, …), health (posture, breathing properly, moving well, eating well, …), management processes and so on.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/3758803525795198987/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=3758803525795198987' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/3758803525795198987'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/3758803525795198987'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/02/js-fatigue-fatigue.html' title='JavaScript fatigue fatigue'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-5775925786240778936</id><published>2016-02-04T09:44:00.002+01:00</published><updated>2016-02-04T09:44:27.190+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='es proposal'/><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>ES proposal: Object.getOwnPropertyDescriptors()</title><content type='html'>
+&lt;p&gt;&lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt; is an ECMAScript proposal by Jordan Harband and Andrea Giammarchi. It recently advanced to &lt;a href="http://www.2ality.com/2015/11/tc39-process.html"&gt;stage 3&lt;/a&gt;.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="overview" class="countheads"&gt;Overview&lt;/h3&gt;&lt;p&gt;&lt;code&gt;Object.getOwnPropertyDescriptors(obj)&lt;/code&gt; accepts an object &lt;code&gt;obj&lt;/code&gt; and returns an object &lt;code&gt;result&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For each own (non-inherited) property of &lt;code&gt;obj&lt;/code&gt;, it adds a property to &lt;code&gt;result&lt;/code&gt; whose key is the same and whose value is the the former property’s &lt;em&gt;descriptor&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Property descriptors describe the &lt;em&gt;attributes&lt;/em&gt; of a property (its value, whether it is writable, etc.). For more information, consult Sect. “&lt;a href="http://speakingjs.com/es5/ch17.html#property_attributes"&gt;Property Attributes and Property Descriptors&lt;/a&gt;” in “Speaking JavaScript”.&lt;/p&gt;
+&lt;p&gt;This is an example of using &lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const obj = {
+        [Symbol('foo')]: 123,
+        get bar() { return 'abc' },
+    };
+    console.log(Object.getOwnPropertyDescriptors(obj));
+    
+    // Output:
+    // { [Symbol('foo')]:
+    //    { value: 123,
+    //      writable: true,
+    //      enumerable: true,
+    //      configurable: true },
+    //   bar:
+    //    { get: [Function: bar],
+    //      set: undefined,
+    //      enumerable: true,
+    //      configurable: true } }
+&lt;/pre&gt;
+&lt;p&gt;This is how you would implement &lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function getOwnPropertyDescriptors(obj) {
+        const result = {};
+        for (let key of Reflect.ownKeys(obj)) {
+            result[key] = Object.getOwnPropertyDescriptor(obj, key);
+        }
+        return result;
+    }
+&lt;/pre&gt;
+&lt;h3 id="use-cases-for-object.getownpropertydescriptors%28%29"&gt;Use cases for &lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt;&lt;/h3&gt;&lt;h4 id="use-case-copying-properties-into-an-object"&gt;Use case: copying properties into an object&lt;/h4&gt;&lt;p&gt;Since ES6, JavaScript already has a tool method for copying properties: &lt;code&gt;Object.assign()&lt;/code&gt;. However, this method uses simple get and set operations to copy a property whose key is &lt;code&gt;key&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const value = source[key]; // get
+    target[key] = value; // set
+&lt;/pre&gt;
+&lt;p&gt;That means that it doesn’t properly copy properties with non-default attributes (getters, setters, non-writable properties, etc.). The following example illustrates this limitation. The object &lt;code&gt;source&lt;/code&gt; has a getter whose key is &lt;code&gt;foo&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const source = {
+        set foo(value) {
+            console.log(value);
+        }
+    };
+    console.log(Object.getOwnPropertyDescriptor(source, 'foo'));
+    // { get: undefined,
+    //   set: [Function: foo],
+    //   enumerable: true,
+    //   configurable: true }
+&lt;/pre&gt;
+&lt;p&gt;Using &lt;code&gt;Object.assign()&lt;/code&gt; to copy property &lt;code&gt;foo&lt;/code&gt; to object &lt;code&gt;target&lt;/code&gt; fails:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const target1 = {};
+    Object.assign(target1, source);
+    console.log(Object.getOwnPropertyDescriptor(target1, 'foo'));
+    // { value: undefined,
+    //   writable: true,
+    //   enumerable: true,
+    //   configurable: true }
+&lt;/pre&gt;
+&lt;p&gt;Fortunately, using &lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt; together with &lt;a href="http://speakingjs.com/es5/ch17.html#Object.defineProperties"&gt;&lt;code&gt;Object.defineProperties()&lt;/code&gt;&lt;/a&gt; works:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const target2 = {};
+    Object.defineProperties(target2, Object.getOwnPropertyDescriptors(source));
+    console.log(Object.getOwnPropertyDescriptor(target2, 'foo'));
+    // { get: undefined,
+    //   set: [Function: foo],
+    //   enumerable: true,
+    //   configurable: true }
+&lt;/pre&gt;
+&lt;h4 id="use-case-cloning-objects"&gt;Use case: cloning objects&lt;/h4&gt;&lt;p&gt;Shallow cloning is similar to copying properties, which is why &lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt; is a good choice here, too.&lt;/p&gt;
+&lt;p&gt;This time, we use &lt;a href="http://speakingjs.com/es5/ch17.html#Object.create"&gt;&lt;code&gt;Object.create()&lt;/code&gt;&lt;/a&gt; that has two parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first parameter specifies the prototype of the object it returns.&lt;/li&gt;
+&lt;li&gt;The optional second parameter is a property descriptor collection like the ones returned by &lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="javascript"&gt;
+    const clone = Object.create(Object.getPrototypeOf(obj),
+        Object.getOwnPropertyDescriptors(obj));
+&lt;/pre&gt;
+&lt;h4 id="use-case-cross-platform-object-literals-with-arbitrary-prototypes"&gt;Use case: cross-platform object literals with arbitrary prototypes&lt;/h4&gt;&lt;p&gt;The syntactically nicest way of using an object literal to create an object with an arbitrary prototype &lt;code&gt;prot&lt;/code&gt; is to use the special property &lt;code&gt;__proto__&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const obj = {
+        __proto__: prot,
+        foo: 123,
+    };
+&lt;/pre&gt;
+&lt;p&gt;Alas, that feature is only guaranteed to be there in browsers. The common work-around is &lt;code&gt;Object.create()&lt;/code&gt; and assignment:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const obj = Object.create(prot);
+    obj.foo = 123;
+&lt;/pre&gt;
+&lt;p&gt;But you can also use &lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const obj = Object.create(
+        prot,
+        Object.getOwnPropertyDescriptors({
+            foo: 123,
+        })
+    );
+&lt;/pre&gt;
+&lt;p&gt;Another alternative is &lt;code&gt;Object.assign()&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const obj = Object.assign(
+        Object.create(prot),
+        {
+            foo: 123,
+        }
+    );
+&lt;/pre&gt;
+&lt;h3 id="pitfall-copying-methods-that-use-super"&gt;Pitfall: copying methods that use &lt;code&gt;super&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;A method that uses &lt;code&gt;super&lt;/code&gt; is firmly connected with its &lt;em&gt;home object&lt;/em&gt; (the object it is stored in). There is currently no way to copy or move such a method to a different object.&lt;/p&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;p&gt;JavaScript design process:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2015/11/tc39-process.html"&gt;An explanation of the TC39 process and its stages.&lt;/a&gt; This process governs the design and evolution of JavaScript.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2016/02/ecmascript-2017.html"&gt;List of proposals that are currently at stage 3 or 4.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt; and property descriptors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tc39/proposal-object-getownpropertydescriptors"&gt;ECMAScript proposal “&lt;code&gt;Object.getOwnPropertyDescriptors&lt;/code&gt;”&lt;/a&gt; by Jordan Harband and Andrea Giammarchi&lt;/li&gt;
+&lt;li&gt;Sect. “&lt;a href="http://speakingjs.com/es5/ch17.html#property_attributes"&gt;Property Attributes and Property Descriptors&lt;/a&gt;” in “Speaking JavaScript”.&lt;/li&gt;
+&lt;/ul&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/5775925786240778936/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=5775925786240778936' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5775925786240778936'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5775925786240778936'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/02/object-getownpropertydescriptors.html' title='ES proposal: Object.getOwnPropertyDescriptors()'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-1084254206985427708</id><published>2016-02-02T09:36:00.000+01:00</published><updated>2016-03-29T21:44:06.339+02:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='es proposal'/><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>Feature watch: ECMAScript 2017</title><content type='html'>
+&lt;p&gt;&lt;a href="http://www.2ality.com/2016/01/ecmascript-2016.html"&gt;The feature set of ES2016 was recently finalized&lt;/a&gt;. This blog post tracks what features may be included in ES2017. I will continually update it.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+
+&lt;h3 id="proposed-ecmascript-features" class="countheads"&gt;Proposed ECMAScript features&lt;/h3&gt;&lt;p&gt;&lt;a href="http://www.2ality.com/2015/11/tc39-process.html"&gt;Recall that every ECMAScript feature proposal goes through stages&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stage 4 means that a feature will probably be in the next release.&lt;/li&gt;
+&lt;li&gt;Stage 3 means that a feature still has a chance of being included in the next release.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following features are currently at stage 4:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2015/11/stage3-object-entries.html"&gt;Object.values/Object.entries (Jordan Harband)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following features are currently at stage 3:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#simd-js"&gt;SIMD.JS – SIMD APIs + polyfill (John McCutchan, Peter Jensen, Dan Gohman, Daniel Ehrenberg)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2016/02/async-functions.html"&gt;Async Functions (Brian Terlson)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2015/11/string-padding.html"&gt;String padding (Jordan Harband, Rick Waldron)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2015/11/trailing-comma-parameters.html"&gt;Trailing commas in function parameter lists and calls (Jeff Morrison)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2016/02/object-getownpropertydescriptors.html"&gt;&lt;code&gt;Object.getOwnPropertyDescriptors()&lt;/code&gt; (Jordan Harband, Andrea Giammarchi)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are wondering what stages other proposed features are in, consult &lt;a href="https://github.com/tc39/ecma262/blob/master/README.md"&gt;the readme of the ECMA-262 GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id="simd-js"&gt;SIMD.JS – SIMD APIs + polyfill (John McCutchan, Peter Jensen, Dan Gohman, Daniel Ehrenberg)&lt;/h3&gt;&lt;p&gt;SIMD stands for “single instruction, multiple data”, the ability of a CPU to apply an operand to vectors of values (instead of single values). One popular example of a SIMD instruction set is &lt;a href="https://en.wikipedia.org/wiki/Streaming_SIMD_Extensions"&gt;SSE (Streaming SIMD Extensions)&lt;/a&gt;, as supported by Intel processors.&lt;/p&gt;
+&lt;p&gt;This is a short code example, consult the sources below for more information.&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    var a = SIMD.float32x4(1.0, 2.0, 3.0, 4.0);
+    var b = SIMD.float32x4(5.0, 6.0, 7.0, 8.0);
+    var c = SIMD.float32x4.add(a,b);
+&lt;/pre&gt;
+&lt;p&gt;Further reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://tc39.github.io/ecmascript_simd/"&gt;SIMD.JS – SIMD APIs + polyfill&lt;/a&gt; (John McCutchan, Peter Jensen, Dan Gohman, Daniel Ehrenberg)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2013/12/simd-js.html"&gt;JavaScript gains support for SIMD&lt;/a&gt; (2ality)&lt;/li&gt;
+&lt;/ul&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/1084254206985427708/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=1084254206985427708' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/1084254206985427708'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/1084254206985427708'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/02/ecmascript-2017.html' title='Feature watch: ECMAScript 2017'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-2877640886914038897</id><published>2016-02-01T11:38:00.002+01:00</published><updated>2016-04-30T12:04:23.489+02:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='es proposal'/><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='async'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><category scheme='http://www.blogger.com/atom/ns#' term='promises'/><title type='text'>ES proposal: async functions</title><content type='html'>
+
+&lt;p&gt;Async functions are an ECMAScript proposal by Brian Terlson. It is at stage 3 (candidate).&lt;/p&gt;
+&lt;p&gt;Before I can explain async functions, I need to explain how Promises and generators can be combined to perform asynchronous operations via synchronous-looking code.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="writing-async-code-via-promises-and-generators" class="countheads"&gt;Writing async code via Promises and generators&lt;/h3&gt;&lt;p&gt;For functions that compute their one-off results asynchronously, Promises, which are part of ES6, are becoming increasingly popular. One example is &lt;a href="https://fetch.spec.whatwg.org/#concept-request"&gt;the client-side &lt;code&gt;fetch&lt;/code&gt; API&lt;/a&gt;, which is an alternative to XMLHttpRequest for retrieving files. Using it looks as follows:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function fetchJson(url) {
+        return fetch(url)
+        .then(request =&amp;gt; request.text())
+        .then(text =&amp;gt; {
+            return JSON.parse(text);
+        })
+        .catch(error =&amp;gt; {
+            console.log(`ERROR: ${error.stack}`);
+        });
+    }
+    fetchJson('http://example.com/some_file.json')
+    .then(obj =&amp;gt; console.log(obj));
+&lt;/pre&gt;
+&lt;p&gt;co is a library that uses Promises and generators to enable a coding style that looks more synchronous, but works the same as the style used in the previous example:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const fetchJson = co.wrap(function* (url) {
+        try {
+            let request = yield fetch(url);
+            let text = yield request.text();
+            return JSON.parse(text);
+        }
+        catch (error) {
+            console.log(`ERROR: ${error.stack}`);
+        }
+    });
+&lt;/pre&gt;
+&lt;p&gt;Every time the callback (a generator function!) yields a Promise to co, the callback gets suspended. Once the Promise is settled, co resumes the callback: if the Promise was fulfilled, &lt;code&gt;yield&lt;/code&gt; returns the fulfillment value, if it was rejected, &lt;code&gt;yield&lt;/code&gt; throws the rejection error. Additionally, co promisifies the result returned by the callback (similarly to how &lt;code&gt;then()&lt;/code&gt; does it).&lt;/p&gt;
+&lt;h3 id="async-functions"&gt;Async functions&lt;/h3&gt;&lt;p&gt;Async functions are basically dedicated syntax for what co does:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    async function fetchJson(url) {
+        try {
+            let request = await fetch(url);
+            let text = await request.text();
+            return JSON.parse(text);
+        }
+        catch (error) {
+            console.log(`ERROR: ${error.stack}`);
+        }
+    }
+&lt;/pre&gt;
+&lt;p&gt;Internally, async functions work much like generators, but they are not translated to generator functions.&lt;/p&gt;
+&lt;h3 id="variants"&gt;Variants&lt;/h3&gt;&lt;p&gt;The following variants of async functions exist:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Async function declarations: &lt;code&gt;async function foo() {}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Async function expressions: &lt;code&gt;const foo = async function () {};&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Async method definitions: &lt;code&gt;let obj = { async foo() {} }&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Async arrow functions: &lt;code&gt;const foo = async () =&amp;gt; {};&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tc39/ecmascript-asyncawait"&gt;Async Functions&lt;/a&gt; (Brian Terlson)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://exploringjs.com/es6/ch_generators.html#sec_co-library"&gt;Simplifying asynchronous computations via generators&lt;/a&gt; (section in “Exploring ES6”)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/2877640886914038897/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=2877640886914038897' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/2877640886914038897'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/2877640886914038897'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/02/async-functions.html' title='ES proposal: async functions'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-6940299136630329414</id><published>2016-02-01T11:32:00.002+01:00</published><updated>2016-02-01T11:32:53.065+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='es2016'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>ES2016 feature: exponentiation operator (**)</title><content type='html'>
+&lt;p&gt;The exponentiation operator (&lt;code&gt;**&lt;/code&gt;) is an ECMAScript proposal by Rick Waldron. It is at stage 4 (finished) and part of &lt;a href="http://www.2ality.com/2016/01/ecmascript-2016.html"&gt;ECMAScript 2016&lt;/a&gt;.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="an-infix-operator-for-exponentiation" class="countheads"&gt;An infix operator for exponentiation&lt;/h3&gt;&lt;p&gt;&lt;code&gt;**&lt;/code&gt; is an infix operator for exponentiation:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    x ** y
+&lt;/pre&gt;
+&lt;p&gt;is produces the same result as&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    Math.pow(x, y)
+&lt;/pre&gt;
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    let squared = 3 ** 2; // 9
+    
+    let num = 3;
+    num **= 2;
+    console.log(num); // 9
+&lt;/pre&gt;
+&lt;p&gt;Further reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/rwaldron/exponentiation-operator"&gt;Exponentiation Operator&lt;/a&gt; (Rick Waldron)&lt;/li&gt;
+&lt;/ul&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/6940299136630329414/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=6940299136630329414' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/6940299136630329414'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/6940299136630329414'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/02/exponentiation-operator.html' title='ES2016 feature: exponentiation operator (**)'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-594797046547610335</id><published>2016-02-01T11:29:00.000+01:00</published><updated>2016-02-01T11:29:25.916+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='es2016'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>ES2016 feature: Array.prototype.includes</title><content type='html'>
+&lt;p&gt;&lt;code&gt;Array.prototype.includes&lt;/code&gt; is an ECMAScript proposal by Domenic Denicola and Rick Waldron. It is at stage 4 (finished) and part of &lt;a href="http://www.2ality.com/2016/01/ecmascript-2016.html"&gt;ECMAScript 2016&lt;/a&gt;.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="the-array-method-includes" class="countheads"&gt;The Array method &lt;code&gt;includes&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;The Array method &lt;code&gt;includes&lt;/code&gt; has the following signature:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    Array.prototype.includes(value : any) : boolean
+&lt;/pre&gt;
+&lt;p&gt;It returns &lt;code&gt;true&lt;/code&gt; if &lt;code&gt;value&lt;/code&gt; is an element of its receiver (&lt;code&gt;this&lt;/code&gt;) and &lt;code&gt;false&lt;/code&gt;, otherwise:&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; ['a', 'b', 'c'].includes('a')
+    true
+    &amp;gt; ['a', 'b', 'c'].includes('d')
+    false
+&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;includes&lt;/code&gt; is similar to &lt;code&gt;indexOf&lt;/code&gt; – the following two expressions are mostly equivalent:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    arr.includes(x)
+    arr.indexOf(x) &amp;gt;= 0
+&lt;/pre&gt;
+&lt;p&gt;The main difference is that &lt;code&gt;includes()&lt;/code&gt; finds &lt;code&gt;NaN&lt;/code&gt;, whereas &lt;code&gt;indexOf()&lt;/code&gt; doesn’t:&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; [NaN].includes(NaN)
+    true
+    &amp;gt; [NaN].indexOf(NaN)
+    -1
+&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;includes&lt;/code&gt; does not distinguish between &lt;code&gt;+0&lt;/code&gt; and &lt;code&gt;-0&lt;/code&gt; (&lt;a href="http://speakingjs.com/es5/ch11.html#two_zeros"&gt;which is how almost all of JavaScript works&lt;/a&gt;):&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; [-0].includes(+0)
+    true
+&lt;/pre&gt;
+&lt;p&gt;Typed Arrays will also have a method &lt;code&gt;includes()&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    let tarr = Uint8Array.of(12, 5, 3);
+    console.log(tarr.includes(5)); // true
+&lt;/pre&gt;
+&lt;h3 id="frequently-asked-questions"&gt;Frequently asked questions&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Why is the method called &lt;code&gt;includes&lt;/code&gt; and not &lt;code&gt;contains&lt;/code&gt;?&lt;/strong&gt;&lt;br&gt;The latter was the initial choice, but that broke code on the web (&lt;a href="https://esdiscuss.org/topic/having-a-non-enumerable-array-prototype-contains-may-not-be-web-compatible"&gt;MooTools adds this method to &lt;code&gt;Array.prototype&lt;/code&gt;&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Why is the method called &lt;code&gt;includes&lt;/code&gt; and not &lt;code&gt;has&lt;/code&gt;?&lt;/strong&gt;&lt;br&gt;&lt;code&gt;has&lt;/code&gt; is used for keys (&lt;code&gt;Map.prototype.has&lt;/code&gt;), &lt;code&gt;includes&lt;/code&gt; is used for elements (&lt;code&gt;String.prototype.includes&lt;/code&gt;). The elements of a Set can be viewed as being both keys and values, which is why there is a &lt;code&gt;Set.prototype.has&lt;/code&gt; (and no &lt;code&gt;includes&lt;/code&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="http://exploringjs.com/es6/ch_strings.html#_checking-for-containment-and-repeating-strings"&gt;The ES6 method &lt;code&gt;String.prototype.includes&lt;/code&gt;&lt;/a&gt; works with strings, not characters. Isn’t that inconsistent w.r.t. &lt;code&gt;Array.prototype.includes&lt;/code&gt;?&lt;/strong&gt;&lt;br&gt;If Array &lt;code&gt;includes&lt;/code&gt; worked exactly like string &lt;code&gt;includes&lt;/code&gt;, it would accept arrays, not single elements. But the two &lt;code&gt;includes&lt;/code&gt; follow the example of &lt;code&gt;indexOf&lt;/code&gt;; characters are seen as a special case and strings with arbitrary lengths as the general case.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tc39/Array.prototype.includes/"&gt;&lt;code&gt;Array.prototype.includes&lt;/code&gt;&lt;/a&gt; (Domenic Denicola, Rick Waldron)&lt;/li&gt;
+&lt;/ul&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/594797046547610335/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=594797046547610335' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/594797046547610335'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/594797046547610335'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/02/array-prototype-includes.html' title='ES2016 feature: Array.prototype.includes'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-5994285079602523609</id><published>2016-01-30T11:37:00.002+01:00</published><updated>2016-04-20T10:01:50.174+02:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='es2016'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>The final feature set of ECMAScript 2016 (ES7)</title><content type='html'>
+&lt;p&gt;We always knew that ECMAScript 2016 (ES2016) would be a small release. It turns out that it will be &lt;em&gt;very&lt;/em&gt; small. Read on for a list of its features and an explanation why that is not a problem.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="the-features-of-es2016" class="countheads"&gt;The features of ES2016&lt;/h3&gt;&lt;p&gt;Any proposals that were at stage 4 on Thursday, 28 January 2016, will be in ES2016 (&lt;a href="https://twitter.com/bterlson/status/692427832555892736"&gt;source: ECMAScript standard editor Brian Terlson&lt;/a&gt;). That means that ES2016 will contain just two new features (in addition to bug fixes and smaller improvements):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2016/02/array-prototype-includes.html"&gt;&lt;code&gt;Array.prototype.includes&lt;/code&gt; (Domenic Denicola, Rick Waldron)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2016/02/exponentiation-operator.html"&gt;Exponentiation Operator (Rick Waldron)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://tc39.github.io/ecma262/2016/"&gt;The draft of ECMAScript 2016&lt;/a&gt; is online and will be ratified in 2016, probably in June.&lt;/p&gt;
+&lt;h3 id="the-new-release-process-works"&gt;The new release process works&lt;/h3&gt;&lt;p&gt;ES2016 being so small demonstrates that &lt;a href="http://www.2ality.com/2015/11/tc39-process.html"&gt;the new release process&lt;/a&gt; works:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New features are only included after they are completely ready and after there were at least two implementations that were sufficiently field-tested.&lt;/li&gt;
+&lt;li&gt;Releases happen much more frequently (once a year) and can be more incremental.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are disappointed that your favorite stage 3 feature did not make it into ES2016 – don’t worry: With &lt;a href="http://www.2ality.com/2015/11/tc39-process.html"&gt;the new release process&lt;/a&gt;, it’s more about the stage a proposal is in than what release it is a part of. As soon as a proposal reaches stage 4, it is done and safe to use. You’ll still have to check whether the JavaScript engines that are relevant to you support the feature, but you have to do that with ES6 features, too.&lt;/p&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/5994285079602523609/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=5994285079602523609' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5994285079602523609'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5994285079602523609'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/01/ecmascript-2016.html' title='The final feature set of ECMAScript 2016 (ES7)'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-4926712422604856316</id><published>2016-01-20T11:49:00.000+01:00</published><updated>2016-01-20T11:50:08.013+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='media'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><category scheme='http://www.blogger.com/atom/ns#' term='esnext news'/><title type='text'>ES.next News: a weekly email newsletter</title><content type='html'>
+&lt;p&gt;Today, &lt;a href="https://twitter.com/jowe"&gt;Johannes Weber&lt;/a&gt; &lt;a href="https://twitter.com/rauschma"&gt;and I&lt;/a&gt; are launching a new weekly email newsletter: &lt;a href="http://esnextnews.com/"&gt;ES.next News&lt;/a&gt;.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;p&gt;The concept is simple: you get 5 links related to ECMAScript 6/2015+ per week, via email. Subscribe now, it’s free:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://esnextnews.com/"&gt;Email&lt;/a&gt;: one email per week, each Tuesday. &lt;a href="http://us12.campaign-archive1.com/?u=d3a2c4d93441c84c0a1e6e808&amp;amp;id=ed71854764"&gt;You can check out a sample issue&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/esnextnews"&gt;Twitter&lt;/a&gt;: all links that will be in the newsletter plus a few more, spread out all over the week.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We see ES.next News as complementary to &lt;a href="http://javascriptweekly.com/"&gt;JavaScript Weekly&lt;/a&gt; (which we recommend, but are not affiliated with). The former is more focused, the latter is more comprehensive.&lt;/p&gt;
+&lt;p&gt;Happy reading!&lt;/p&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/4926712422604856316/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=4926712422604856316' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/4926712422604856316'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/4926712422604856316'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/01/esnext-news.html' title='ES.next News: a weekly email newsletter'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-1651272864384562260</id><published>2016-01-15T16:54:00.000+01:00</published><updated>2016-01-19T06:54:24.630+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='technique'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>Enumify: better enums for JavaScript</title><content type='html'>
+
+
+
+&lt;p&gt;In this blog post, I present &lt;a href="https://github.com/rauschma/enumify"&gt;enumify, a library for implementing enums in JavaScript&lt;/a&gt;. The approach it takes is inspired by Java’s enums.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="enum-patterns" class="countheads"&gt;Enum patterns&lt;/h3&gt;&lt;p&gt;The following is a naive enum pattern for JavaScript:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const Color = {
+        RED: 0,
+        GREEN: 1,
+        BLUE: 2,
+    }
+&lt;/pre&gt;
+&lt;p&gt;This implementation has several problems:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Logging: If you log an enum value such as &lt;code&gt;Color.RED&lt;/code&gt;, you don’t see its name.&lt;/li&gt;
+&lt;li&gt;Type safety: Enum values are not unique, they can be mixed up with other values.&lt;/li&gt;
+&lt;li&gt;Membership check: You can’t easily check whether a given value is an element of &lt;code&gt;Color&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We can fix problem #1 by using strings instead of numbers as enum values:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const Color = {
+        RED: 'RED',
+        GREEN: 'GREEN',
+        BLUE: 'BLUE',
+    }
+&lt;/pre&gt;
+&lt;p&gt;We additionally get type safety if we use symbols as enum values:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const Color = {
+        RED: Symbol('RED'),
+        GREEN: Symbol('GREEN'),
+        BLUE: Symbol('BLUE'),
+    }
+    console.log(String(Color.RED));
+        // Symbol(RED)
+&lt;/pre&gt;
+&lt;p&gt;One problem with symbols is that you need to convert them to strings explicitly, you can’t coerce them (e.g. via &lt;code&gt;+&lt;/code&gt; or inside template literals):&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    console.log('Color: '+Color.RED)
+        // TypeError: Cannot convert a Symbol value to a string
+&lt;/pre&gt;
+&lt;p&gt;We still don’t have a simple membership test. Using a custom class for enums gives us that. Additionally, everything becomes more customizable:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class Color {
+        constructor(name) {
+            this.name = name;
+        }
+        toString() {
+            return `Color.${this.name}`;
+        }
+    }
+    Color.RED = new Color('RED');
+    Color.GREEN = new Color('GREEN');
+    Color.BLUE = new Color('BLUE');
+    
+    console.log(Color.RED); // Color.RED
+    
+    // Membership test:
+    console.log(Color.GREEN instanceof Color); // true
+&lt;/pre&gt;
+&lt;p&gt;However, this solution is slightly verbose. Let’s use a library to fix that.&lt;/p&gt;
+&lt;h3 id="the-library-enumify"&gt;The library &lt;code&gt;enumify&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href="https://github.com/rauschma/enumify"&gt;The library &lt;code&gt;enumify&lt;/code&gt;&lt;/a&gt; lets you turn classes into enums. It is available on &lt;a href="https://github.com/rauschma/enumify"&gt;GitHub&lt;/a&gt; and &lt;a href="https://www.npmjs.com/package/enumify"&gt;npm&lt;/a&gt;. This is how you would implement the running example via it:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    import {Enum} from 'enumify';
+    
+    class Color extends Enum {}
+    Color.initEnum(['RED', 'GREEN', 'BLUE']);
+    
+    console.log(Color.RED); // Color.RED
+    console.log(Color.GREEN instanceof Color); // true
+&lt;/pre&gt;
+&lt;p&gt;The enum is set up via &lt;code&gt;initEnum()&lt;/code&gt;, a static method that &lt;code&gt;Color&lt;/code&gt; inherits from &lt;code&gt;Enum&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The library “closes” the class &lt;code&gt;Color&lt;/code&gt;: After &lt;code&gt;Color.initEnum()&lt;/code&gt;, you can’t create any new instances:&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; new Color()
+    Error: Enum classes can’t be instantiated
+&lt;/pre&gt;
+&lt;h4 id="properties-of-enum-classes"&gt;Properties of enum classes&lt;/h4&gt;&lt;h5 id="enumvalues"&gt;&lt;code&gt;enumValues&lt;/code&gt;&lt;/h5&gt;&lt;p&gt;Enums get a static property &lt;code&gt;enumValues&lt;/code&gt;, which contains an Array with all enum values:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    for (const c of Color.enumValues) {
+        console.log(c);
+    }
+    // Output:
+    // Color.RED
+    // Color.GREEN
+    // Color.BLUE
+&lt;/pre&gt;
+&lt;p&gt;The values are listed in the order in which they were added to the enum class. As explained later, you can also call &lt;code&gt;initEnum()&lt;/code&gt; with an object (vs. an Array). Even then, &lt;code&gt;enumValues&lt;/code&gt; has the expected structure, because objects record the order in which properties are added to them.&lt;/p&gt;
+&lt;h5 id="enumvalueof%28%29"&gt;&lt;code&gt;enumValueOf()&lt;/code&gt;&lt;/h5&gt;&lt;p&gt;The inherited tool method &lt;code&gt;enumValueOf()&lt;/code&gt; maps names to values:&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; Color.enumValueOf('RED') === Color.RED
+    true
+&lt;/pre&gt;
+&lt;p&gt;This method is useful for parsing enum values (e.g. if you want to retrieve them from JSON data).&lt;/p&gt;
+&lt;h4 id="properties-of-enum-values"&gt;Properties of enum values&lt;/h4&gt;&lt;p&gt;Enumify adds two properties to every enum value:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;name&lt;/code&gt;: the name of the enum value.&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; Color.BLUE.name
+    'BLUE'
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;ordinal&lt;/code&gt;: the position of the enum value within the Array &lt;code&gt;enumValues&lt;/code&gt;.&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; Color.BLUE.ordinal
+    2
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="advanced-features"&gt;Advanced features&lt;/h4&gt;&lt;h5 id="custom-properties-for-enum-values"&gt;Custom properties for enum values&lt;/h5&gt;&lt;p&gt;&lt;code&gt;initEnum()&lt;/code&gt; also accepts an object as its parameter. That enables you to add properties to enum values.&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class TicTacToeColor extends Enum {}
+    
+    // Alas, data properties don’t work, because the enum
+    // values (TicTacToeColor.X etc.) don’t exist when
+    // the object literals are evaluated.
+    TicTacToeColor.initEnum({
+        O: {
+            get inverse() { return TicTacToeColor.X },
+        },
+        X: {
+            get inverse() { return TicTacToeColor.O },
+        },
+    });
+    
+    console.log(TicTacToeColor.O.inverse); // TicTacToeColor.X
+&lt;/pre&gt;
+&lt;p&gt;Another use case for this feature is defining commands for a user interface:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class Command extends Enum {}
+    Command.initEnum({
+        CLEAR: {
+            description: 'Clear all entries',
+            run() { /* ··· */ },
+        },
+        ADD_NEW: {
+            description: 'Add new',
+            run() { /* ··· */ },
+        },
+    });
+    console.log('Available commands:');
+    for (let cmd of Command.enumValues) {
+        console.log(cmd.description);
+    }
+    // Output:
+    // Available commands:
+    // Clear all entries
+    // Add new
+&lt;/pre&gt;
+&lt;p&gt;The instance-specific method &lt;code&gt;run()&lt;/code&gt; executes the command. &lt;code&gt;enumValues&lt;/code&gt; enables us to list all available commands.&lt;/p&gt;
+&lt;h5 id="custom-prototype-methods"&gt;Custom prototype methods&lt;/h5&gt;&lt;p&gt;If you want all enum values to have the same method, you simply add it to the enum class:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class Weekday extends Enum {
+        isBusinessDay() {
+            switch (this) {
+                case Weekday.SATURDAY:
+                case Weekday.SUNDAY:
+                    return false;
+                default:
+                    return true;
+            }
+        }
+    }
+    Weekday.initEnum([
+        'MONDAY', 'TUESDAY', 'WEDNESDAY',
+        'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']);
+    
+    console.log(Weekday.SATURDAY.isBusinessDay()); // false
+    console.log(Weekday.MONDAY.isBusinessDay()); // true
+&lt;/pre&gt;
+&lt;h4 id="arbitrary-enum-values"&gt;Arbitrary enum values&lt;/h4&gt;&lt;p&gt;One occasionally requested feature for enums is that enum values be numbers (e.g. for flags) or strings (e.g. to compare with values in HTTP headers). That can be achieved by making those values properties of enum values. For example:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class Mode extends Enum {}
+    Mode.initEnum({
+        USER_R: {
+            n: 0b100000000,
+        },
+        USER_W: {
+            n: 0b010000000,
+        },
+        USER_X: {
+            n: 0b001000000,
+        },
+        GROUP_R: {
+            n: 0b000100000,
+        },
+        GROUP_W: {
+            n: 0b000010000,
+        },
+        GROUP_X: {
+            n: 0b000001000,
+        },
+        ALL_R: {
+            n: 0b000000100,
+        },
+        ALL_W: {
+            n: 0b000000010,
+        },
+        ALL_X: {
+            n: 0b000000001,
+        },
+    });
+    assert.strictEqual(
+        Mode.USER_R.n | Mode.USER_W.n | Mode.USER_X.n |
+        Mode.GROUP_R.n | Mode.GROUP_X.n |
+        Mode.ALL_R.n | Mode.ALL_X.n,
+        0o755);
+    assert.strictEqual(
+        Mode.USER_R.n | Mode.USER_W.n | Mode.USER_X.n |
+        Mode.GROUP_R.n,
+        0o740);
+&lt;/pre&gt;
+&lt;h4 id="state-machines-via-enums"&gt;State machines via enums&lt;/h4&gt;&lt;p&gt;Enums help with implementing state machines. This is an example:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class Result extends Enum {}
+    Result.initEnum(['ACCEPTED', 'REJECTED']);
+    
+    class State extends Enum {}
+    State.initEnum({
+        START: {
+            enter(iter) {
+                const {value,done} = iter.next();
+                if (done) {
+                    return Result.REJECTED;
+                }
+                switch (value) {
+                    case 'A':
+                        return State.A_SEQUENCE;
+                    default:
+                        return Result.REJECTED;
+                }
+            }
+        },
+        A_SEQUENCE: ···,
+        B_SEQUENCE: ···,
+        ACCEPT: {
+            enter(iter) {
+                return Result.ACCEPTED;
+            }
+        },
+    });
+    function runStateMachine(str) {
+        let iter = str[Symbol.iterator]();
+        let state = State.START;
+        while (true) {
+            state = state.enter(iter);
+            switch (state) {
+                case Result.ACCEPTED:
+                    return true;
+                case Result.REJECTED:
+                    return false;
+            }
+        }
+    }
+    
+    runStateMachine('AABBB'); // true
+    runStateMachine('AA'); // false
+    runStateMachine('AABBC'); // false
+&lt;/pre&gt;
+&lt;h3 id="built-in-enums-for-javascript%3F"&gt;Built-in enums for JavaScript?&lt;/h3&gt;&lt;p&gt;&lt;a href="https://gist.github.com/rauschma/f3e77132319e09b94722"&gt;This is a Gist sketching what built-in enums could look like&lt;/a&gt;. For example:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    enum Color {
+        RED, GREEN, BLUE
+    }
+    
+    enum TicTacToeColor {
+        O {
+            get inverse() { return TicTacToeColor.X }
+        },
+        X {
+            get inverse() { return TicTacToeColor.O }
+        },    
+    }
+    
+    enum Weekday {
+        MONDAY, TUESDAY, WEDNESDAY,
+        THURSDAY, FRIDAY, SATURDAY, SUNDAY;
+        isBusinessDay() {
+            switch (this) {
+                case Weekday.SATURDAY:
+                case Weekday.SUNDAY:
+                    return false;
+                default:
+                    return true;
+            }
+        }
+    }
+    
+    enum Mode {
+        USER_R {
+            n: 0b100000000,
+        },
+        USER_W {
+            n: 0b010000000,
+        },
+        USER_X {
+            n: 0b001000000,
+        },
+        GROUP_R {
+            n: 0b000100000,
+        },
+        GROUP_W {
+            n: 0b000010000,
+        },
+        GROUP_X {
+            n: 0b000001000,
+        },
+        ALL_R {
+            n: 0b000000100,
+        },
+        ALL_W {
+            n: 0b000000010,
+        },
+        ALL_X {
+            n: 0b000000001,
+        },
+    }
+&lt;/pre&gt;
+&lt;h3 id="enums-in-typescript"&gt;Enums in TypeScript&lt;/h3&gt;&lt;p&gt;TypeScript has built-in support for enums:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    enum Color {
+        RED, GREEN, BLUE
+    }
+&lt;/pre&gt;
+&lt;p&gt;This is how the enum is implemented:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    var Color;
+    (function (Color) {
+        Color[Color["RED"] = 0] = "RED";
+        Color[Color["GREEN"] = 1] = "GREEN";
+        Color[Color["BLUE"] = 2] = "BLUE";
+    })(Color || (Color = {}));
+&lt;/pre&gt;
+&lt;p&gt;This code makes the following assignments:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    Color["RED"] = 0;
+    Color["GREEN"] = 1;
+    Color["BLUE"] = 2;
+    
+    Color[0] = "RED";
+    Color[1] = "GREEN";
+    Color[2] = "BLUE";
+&lt;/pre&gt;
+&lt;p&gt;TypeScript’s enums have all the disadvantages mentioned for the first enum example earlier: No names for logging, no type safety and no membership tests. You can’t customize these enums, either.&lt;/p&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/1651272864384562260/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=1651272864384562260' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/1651272864384562260'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/1651272864384562260'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/01/enumify.html' title='Enumify: better enums for JavaScript'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-836831510310208442</id><published>2016-01-09T22:14:00.000+01:00</published><updated>2016-01-09T22:14:54.224+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>ES6 classes have inner names</title><content type='html'>&lt;p&gt;This blog post explains that classes have lexical inner names, just like named function expressions.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="the-inner-names-of-function-expressions" class="countheads"&gt;The inner names of function expressions&lt;/h3&gt;&lt;p&gt;You may know that function expressions have lexical inner names:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const fac = function me(n) {
+        if (n &amp;gt; 0) {
+            // Use inner name `me` to
+            // refer to the function
+            return n * me(n-1);
+        } else {
+            return 1;
+        }
+    };
+    console.log(fac(3)); // 6
+&lt;/pre&gt;
+&lt;p&gt;The name &lt;code&gt;me&lt;/code&gt; of the named function expression becomes a lexically bound variable that is unaffected by which variable currently holds the function.&lt;/p&gt;
+&lt;h3 id="the-inner-names-of-classes"&gt;The inner names of classes&lt;/h3&gt;&lt;p&gt;Interestingly, ES6 classes also have lexical inner names that you can use in methods (constructor methods and regular methods):&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class C {
+        constructor() {
+            // Use inner name C to refer to class
+            console.log(`constructor: ${C.prop}`);
+        }
+        logProp() {
+            // Use inner name C to refer to class
+            console.log(`logProp: ${C.prop}`);
+        }
+    }
+    C.prop = 'Hi!';
+    
+    const D = C;
+    C = null;
+    
+    // C is not a class, anymore:
+    new C().logProp();
+        // TypeError: C is not a function
+    
+    // But inside the class, the identifier C
+    // still works
+    new D().logProp();
+        // constructor: Hi!
+        // logProp: Hi!
+&lt;/pre&gt;
+&lt;p&gt;(In the ES6 spec the inner name is set up by &lt;a href="http://www.ecma-international.org/ecma-262/6.0/#sec-runtime-semantics-classdefinitionevaluation"&gt;the dynamic semantics of ClassDefinitionEvaluation&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acknowledgement:&lt;/strong&gt; Thanks to Michael Ficarra for pointing out that classes have inner names.&lt;/p&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/836831510310208442/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=836831510310208442' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/836831510310208442'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/836831510310208442'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/01/classes-inner-names.html' title='ES6 classes have inner names'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-8171609426488036478</id><published>2016-01-07T18:51:00.000+01:00</published><updated>2016-01-07T18:52:40.598+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='nodejs'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>Running locally installed npm executables</title><content type='html'>&lt;p&gt;One nice npm feature is that you can install packages with executables locally. This blog post explains how to run locally installed executables.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="running-executables-from-a-nearby-node_modules" class="countheads"&gt;Running executables from a nearby &lt;code&gt;node_modules&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;(An aside, on the topic of packages versus modules: npm packages may or may not contain Node.js modules.)&lt;/p&gt;
+&lt;p&gt;If you require a module, Node.js looks for it by going through all &lt;code&gt;node_modules/&lt;/code&gt; directories in ancestor directories (&lt;code&gt;./node_modules/&lt;/code&gt;, &lt;code&gt;../node_modules/&lt;/code&gt;, &lt;code&gt;../../node_modules/&lt;/code&gt;, etc.). The first appropriate module that is found is used.&lt;/p&gt;
+&lt;p&gt;Whenever you are somewhere in the file system, &lt;code&gt;npm root&lt;/code&gt; tells you where it would install packages if you used &lt;code&gt;npm install&lt;/code&gt;. That directory &lt;code&gt;node_modules/&lt;/code&gt; may or may not exist, already; in the following example, directory &lt;code&gt;/tmp/&lt;/code&gt; is empty.&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ cd /tmp/
+    $ npm root
+    /tmp/node_modules
+&lt;/pre&gt;
+&lt;p&gt;When executables are installed via npm packages, npm links to them:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In local installs, they are linked to from a &lt;code&gt;node_modules/.bin/&lt;/code&gt; directory.&lt;/li&gt;
+&lt;li&gt;In global installs, they are linked to from a global &lt;code&gt;bin/&lt;/code&gt; directory (e.g. &lt;code&gt;/usr/local/bin&lt;/code&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The command &lt;code&gt;npm bin&lt;/code&gt; lets you find out where the closest executables are:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ npm bin
+    /tmp/node_modules/.bin
+&lt;/pre&gt;
+&lt;p&gt;If your shell is bash then you can define the following command for running executables from that directory:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    function npm-do { (PATH=$(npm bin):$PATH; eval $@;) }
+&lt;/pre&gt;
+&lt;p&gt;Let’s try out that shell command: We install package &lt;code&gt;figlet-cli&lt;/code&gt; that comes with an executable. npm puts multiple packages into the closest &lt;code&gt;node_modules/&lt;/code&gt; and links to the executable &lt;code&gt;figlet&lt;/code&gt; from &lt;code&gt;node_modules/.bin/&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ npm install figlet-cli
+    $ ls -1 /tmp/node_modules/
+    figlet
+    figlet-cli
+    minimist
+    optimist
+    wordwrap
+    $ ls -1 /tmp/node_modules/.bin
+    figlet
+&lt;/pre&gt;
+&lt;p&gt;If we run &lt;code&gt;figlet&lt;/code&gt; as a normal shell command, it fails, because we haven’t installed the package (and thus the executable) globally. However, &lt;code&gt;npm-do&lt;/code&gt; allows us to run &lt;code&gt;figlet&lt;/code&gt;.&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ figlet hi
+    -bash: figlet: command not found
+    $ npm-do figlet hi
+      _     _
+     | |__ (_)
+     | '_ \| |
+     | | | | |
+     |_| |_|_|
+&lt;/pre&gt;
+&lt;h3 id="inside-an-npm-package"&gt;Inside an npm package&lt;/h3&gt;&lt;p&gt;I’m using the repo &lt;a href="https://github.com/rauschma/npm-bin-demo"&gt;&lt;code&gt;npm-bin-demo&lt;/code&gt;&lt;/a&gt; to demonstrate running executables from inside an npm package. This repo is installed as follows (feel free to read on without doing that):&lt;/p&gt;
+&lt;pre class="text"&gt;
+    git clone https://github.com/rauschma/npm-bin-demo.git
+    cd npm-bin-demo/
+    npm install
+&lt;/pre&gt;
+&lt;p&gt;That package has the following &lt;code&gt;package.json&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    {
+      "bin": {
+        "hello": "./hello.js"
+      },
+      "scripts": {
+        "fig": "figlet",
+        "hello": "./hello.js"
+      },
+      "dependencies": {
+        "figlet-cli": "^0.1.0"
+      }
+    }
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;bin&lt;/code&gt;: lists the executables provided by this package. It only matters if this package is installed via npm and then affects the &lt;code&gt;node_modules/&lt;/code&gt; of an ancestor directory.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;scripts&lt;/code&gt;: defines commands that you can execute via &lt;code&gt;npm run&lt;/code&gt; if the current &lt;code&gt;package.json&lt;/code&gt; is the one that is closest to your current working directory. Note that we can use &lt;code&gt;figlet&lt;/code&gt; as if it were a globally installed shell command. That’s because npm adds local &lt;code&gt;.bin/&lt;/code&gt; directories to the shell path before it executes scripts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;dependencies&lt;/code&gt;: lists packages that are installed by &lt;code&gt;npm install&lt;/code&gt;, into &lt;code&gt;npm-bin-demo/node_modules/&lt;/code&gt;. As you can see, we have installed &lt;code&gt;figlet-cli&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s examine our surroundings (remember that we are still inside the directory &lt;code&gt;npm-bin-demo/&lt;/code&gt;):&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ npm root
+    /tmp/npm-bin-demo/node_modules
+    $ ls -1 node_modules/
+    figlet
+    figlet-cli
+    minimist
+    optimist
+    wordwrap
+    
+    $ npm bin
+    /tmp/npm-bin-demo/node_modules/.bin
+    $ ls -1 node_modules/.bin/
+    figlet
+&lt;/pre&gt;
+&lt;p&gt;As expected, there is no shell command &lt;code&gt;figlet&lt;/code&gt;, but we can run &lt;code&gt;figlet&lt;/code&gt; via &lt;code&gt;npm-do&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ figlet hi
+    -bash: figlet: command not found
+    $ npm-do figlet hi
+      _     _
+     | |__ (_)
+     | '_ \| |
+     | | | | |
+     |_| |_|_|
+&lt;/pre&gt;
+&lt;p&gt;We can also execute &lt;code&gt;figlet&lt;/code&gt; via &lt;code&gt;npm run&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ npm run fig hi
+    
+    &amp;gt; @ fig /Users/rauschma/tmp/npm-bin-demo
+    &amp;gt; figlet "hi"
+    
+      _     _
+     | |__ (_)
+     | '_ \| |
+     | | | | |
+     |_| |_|_|
+&lt;/pre&gt;
+&lt;p&gt;As explained previously, the entries in &lt;code&gt;bin&lt;/code&gt; have no effect inside a package, which is why we can’t run &lt;code&gt;hello&lt;/code&gt; via &lt;code&gt;npm-do&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ npm-do hello
+    -bash: hello: command not found
+&lt;/pre&gt;
+&lt;p&gt;We can, however, run the script whose name is &lt;code&gt;hello&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ npm run hello
+    
+    &amp;gt; @ hello /tmp/npm-bin-demo
+    &amp;gt; ./hello.js
+    
+    Hello everyone!
+&lt;/pre&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;p&gt;For more information on the topic of local npm installs, consult Sect. “&lt;a href="https://leanpub.com/setting-up-es6/read#leanpub-auto-npm-and-local-installs"&gt;npm and local installs&lt;/a&gt;” in “Setting up ES6”.&lt;/p&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/8171609426488036478/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=8171609426488036478' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/8171609426488036478'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/8171609426488036478'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/01/locally-installed-npm-executables.html' title='Running locally installed npm executables'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-9053652717048330059</id><published>2016-01-04T16:35:00.003+01:00</published><updated>2016-01-04T23:46:14.419+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>Managing the private data of ES6 classes</title><content type='html'>
+&lt;p&gt;This blog post explains four approaches for managing private data for ES6 classes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Keeping private data in the environment of a class &lt;code&gt;constructor&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Marking private properties via a naming convention (e.g. a prefixed underscore)&lt;/li&gt;
+&lt;li&gt;Keeping private data in WeakMaps&lt;/li&gt;
+&lt;li&gt;Using symbols as keys for private properties&lt;/li&gt;
+&lt;/ol&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;p&gt;Approaches #1 and #2 were already common in ES5, for constructors. Approaches #3 and #4 are new in ES6. Let’s implement the same example four times, via each of the approaches.&lt;/p&gt;
+&lt;h3 id="keeping-private-data-in-the-environment-of-a-class-constructor" class="countheads"&gt;Keeping private data in the environment of a class &lt;code&gt;constructor&lt;/code&gt;&lt;/h3&gt;&lt;p&gt;Our running example is a class &lt;code&gt;Countdown&lt;/code&gt; that invokes a callback &lt;code&gt;action&lt;/code&gt; once a counter (whose initial value is &lt;code&gt;counter&lt;/code&gt;) reaches zero. The two parameters &lt;code&gt;action&lt;/code&gt; and &lt;code&gt;counter&lt;/code&gt; should be stored as private data.&lt;/p&gt;
+&lt;p&gt;In the first implementation, we store &lt;code&gt;action&lt;/code&gt; and &lt;code&gt;counter&lt;/code&gt; in the &lt;em&gt;environment&lt;/em&gt; of the class constructor. An environment is the internal data structure, in which a JavaScript engine stores the parameters and local variables that come into existence whenever a new scope is entered (e.g. via a function call or a constructor call). This is the code:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class Countdown {
+        constructor(counter, action) {
+            Object.assign(this, {
+                dec() {
+                    if (counter &amp;lt; 1) return;
+                    counter--;
+                    if (counter === 0) {
+                        action();
+                    }
+                }
+            });
+        }
+    }
+&lt;/pre&gt;
+&lt;p&gt;Using &lt;code&gt;Countdown&lt;/code&gt; looks like this:&lt;/p&gt;
+&lt;pre class="repl"&gt;
+    &amp;gt; let c = new Countdown(2, () =&amp;gt; console.log('DONE'));
+    &amp;gt; c.dec();
+    &amp;gt; c.dec();
+    DONE
+&lt;/pre&gt;
+&lt;p&gt;Pro:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The private data is completely safe&lt;/li&gt;
+&lt;li&gt;The names of private properties won’t clash with the names of other private properties (of superclasses or subclasses).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The code becomes less elegant, because you need to add all methods to the instance, inside the constructor (at least those methods that need access to the private data).&lt;/li&gt;
+&lt;li&gt;Due to the instance methods, the code wastes memory. If the methods were prototype methods, they would be shared.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More information on this technique: Sect. “&lt;a href="http://speakingjs.com/es5/ch17.html#private_data_constructor_environment"&gt;Private Data in the Environment of a Constructor (Crockford Privacy Pattern)&lt;/a&gt;” in “Speaking JavaScript”.&lt;/p&gt;
+&lt;h3 id="marking-private-properties-via-a-naming-convention"&gt;Marking private properties via a naming convention&lt;/h3&gt;&lt;p&gt;The following code keeps private data in properties whose names a marked via a prefixed underscore:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    class Countdown {
+        constructor(counter, action) {
+            this._counter = counter;
+            this._action = action;
+        }
+        dec() {
+            if (this._counter &amp;lt; 1) return;
+            this._counter--;
+            if (this._counter === 0) {
+                this._action();
+            }
+        }
+    }
+&lt;/pre&gt;
+&lt;p&gt;Pros:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code looks nice.&lt;/li&gt;
+&lt;li&gt;We can use prototype methods.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Not safe, only a guideline for client code.&lt;/li&gt;
+&lt;li&gt;The names of private properties can clash.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="keeping-private-data-in-weakmaps"&gt;Keeping private data in WeakMaps&lt;/h3&gt;&lt;p&gt;There is a neat technique involving WeakMaps that combines the advantage of the first approach (safety) with the advantage of the second approach (being able to use prototype methods). This technique is demonstrated in the following code: we use the WeakMaps &lt;code&gt;_counter&lt;/code&gt; and &lt;code&gt;_action&lt;/code&gt; to store private data.&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    let _counter = new WeakMap();
+    let _action = new WeakMap();
+    class Countdown {
+        constructor(counter, action) {
+            _counter.set(this, counter);
+            _action.set(this, action);
+        }
+        dec() {
+            let counter = _counter.get(this);
+            if (counter &amp;lt; 1) return;
+            counter--;
+            _counter.set(this, counter);
+            if (counter === 0) {
+                _action.get(this)();
+            }
+        }
+    }
+&lt;/pre&gt;
+&lt;p&gt;Each of the two WeakMaps &lt;code&gt;_counter&lt;/code&gt; and &lt;code&gt;_action&lt;/code&gt; maps objects to their private data. Due to how WeakMaps work that won’t prevent objects from being garbage-collected. As long as you keep the WeakMaps hidden from the outside world, the private data is safe. If you want to be even safer, you can store &lt;code&gt;WeakMap.prototype.get&lt;/code&gt; and &lt;code&gt;WeakMap.prototype.set&lt;/code&gt; in temporary variables and invoke those (instead of the methods, dynamically). Then our code wouldn’t be affected if malicious code replaced those methods with ones that snoop on our private data. However, we are only protected against code that runs after our code. There is nothing we can do if it runs before ours.&lt;/p&gt;
+&lt;p&gt;Pros:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We can use prototype methods.&lt;/li&gt;
+&lt;li&gt;Safer than a naming convention for property keys.&lt;/li&gt;
+&lt;li&gt;The names of private properties can’t clash.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Con:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code is not as elegant as a naming convention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="using-symbols-as-keys-for-private-properties"&gt;Using symbols as keys for private properties&lt;/h3&gt;&lt;p&gt;Another storage location for private data are properties whose keys are symbols:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    const _counter = Symbol('counter');
+    const _action = Symbol('action');
+    
+    class Countdown {
+        constructor(counter, action) {
+            this[_counter] = counter;
+            this[_action] = action;
+        }
+        dec() {
+            if (this[_counter] &amp;lt; 1) return;
+            this[_counter]--;
+            if (this[_counter] === 0) {
+                this[_action]();
+            }
+        }
+    }
+&lt;/pre&gt;
+&lt;p&gt;Each symbol is unique, which is why a symbol-valued property key will never clash with any other property key. Additionally, symbols are somewhat hidden from the outside world, but not completely:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    let c = new Countdown(2, () =&amp;gt; console.log('DONE'));
+    
+    console.log(Object.keys(c));
+        // []
+    console.log(Reflect.ownKeys(c));
+        // [ Symbol(counter), Symbol(action) ]
+&lt;/pre&gt;
+&lt;p&gt;Pros:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We can use prototype methods.&lt;/li&gt;
+&lt;li&gt;The names of private properties can’t clash.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code is not as elegant as a naming convention.&lt;/li&gt;
+&lt;li&gt;Not safe: you can list all property keys (including symbols!) of an object via &lt;code&gt;Reflect.ownKeys()&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Sect. “&lt;a href="http://speakingjs.com/es5/ch17.html#private_data_for_objects"&gt;Keeping Data Private&lt;/a&gt;” in “Speaking JavaScript” (covers ES5 techniques)&lt;/li&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_classes.html"&gt;Classes&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_symbols.html"&gt;Symbols&lt;/a&gt;” in “Exploring ES6”&lt;/li&gt;
+&lt;/ul&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/9053652717048330059/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=9053652717048330059' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/9053652717048330059'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/9053652717048330059'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/01/private-data-classes.html' title='Managing the private data of ES6 classes'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-983012197706692714</id><published>2016-01-02T23:59:00.002+01:00</published><updated>2016-01-04T23:58:21.576+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><category scheme='http://www.blogger.com/atom/ns#' term='webdev'/><title type='text'>Looking back on 2015: six exciting web technologies</title><content type='html'>
+&lt;p&gt;In 2015, there was an amazing amount of innovation related to the web platform. The following sections describe six technologies that I find exciting:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Electron&lt;/li&gt;
+&lt;li&gt;React Native&lt;/li&gt;
+&lt;li&gt;Progressive web apps&lt;/li&gt;
+&lt;li&gt;Visual studio code&lt;/li&gt;
+&lt;li&gt;Rollup&lt;/li&gt;
+&lt;li&gt;Web Assembly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;p&gt;This blog post is a loose follow-up to “&lt;a href="http://www.2ality.com/2014/01/web-platform-2014.html"&gt;Web platform: five technologies to look forward to in 2014&lt;/a&gt;”, which I wrote in early 2014.&lt;/p&gt;
+&lt;h3 id="electron" class="countheads"&gt;Electron&lt;/h3&gt;&lt;p&gt;&lt;a href="http://electron.atom.io/"&gt;Electron (by GitHub)&lt;/a&gt; lets you build cross-platform desktop apps with web technologies. Its features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Automatic updates&lt;/li&gt;
+&lt;li&gt;Crash reporting&lt;/li&gt;
+&lt;li&gt;Windows installers&lt;/li&gt;
+&lt;li&gt;Debugging and profiling&lt;/li&gt;
+&lt;li&gt;Native menus and notifications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Electron was initially created for GitHub’s editor &lt;em&gt;Atom&lt;/em&gt; and is now used by various companies, including Microsoft (Visual Studio Code, see below), Slack and Docker.&lt;/p&gt;
+&lt;p&gt;Architecturally, Electron contains both a Node.js runtime and a minimal embedded Chromium browser. Electron apps run in several processes: A &lt;em&gt;main process&lt;/em&gt; runs the &lt;code&gt;main&lt;/code&gt; script specified by the app’s &lt;code&gt;package.json&lt;/code&gt; file. To display a user interface, that script can open windows. Each of those windows runs in a separate process (a so-called &lt;em&gt;renderer process&lt;/em&gt;), just like a tab in a web browser.&lt;/p&gt;
+&lt;h3 id="react-native"&gt;React Native&lt;/h3&gt;&lt;p&gt;With &lt;a href="https://facebook.github.io/react-native/"&gt;React Native&lt;/a&gt;, you can build native apps for iOS and Android via React. The virtual DOM is still there and you still use JSX to create it, but the actual UI is built with native components such as UITabBar on iOS and Drawer on Android. You lay out those native components via Flexbox.&lt;/p&gt;
+&lt;p&gt;On one hand that means that each of the following platforms has a slightly different UI layer now: the web, iOS, Android. On the other hand, you’ll be able to reuse much of your code, while having a native experience on each platform.&lt;/p&gt;
+&lt;p&gt;Usually I’m skeptical of solutions that try to transplant a language that is native on one platform to another one. But a few months ago, &lt;a href="https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0"&gt;an iOS developer evaluated React Native&lt;/a&gt; and stated:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I may never write an iOS app in Objective-C or Swift again.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is remarkable if you consider that he had to learn both JavaScript and React before he could be productive with React Native.&lt;/p&gt;
+&lt;p&gt;Another &lt;a href="https://twitter.com/andy_matuschak/status/560511204867575808"&gt;interesting quote&lt;/a&gt;, by Andy Matuschak (who “helped build iOS 4.1–8 on the UIKit team”):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I say with confidence as a former UIKit author: React&amp;#39;s model for the UI layer is vastly better than UIKit&amp;#39;s. React Native is a *huge* deal.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id="progressive-web-apps"&gt;Progressive web apps&lt;/h3&gt;&lt;p&gt;There are areas, where native apps have caught up with the web (deep linking, indexing). &lt;em&gt;Progressive web apps&lt;/em&gt; are not really a technology, but rather an umbrella term for characteristics of modern web apps. These mean that web apps are catching up with native apps in some areas and moving ahead of them in others:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Progressive enhancement: The app runs in as many environments as possible. If it needs a service, it should use whatever is available and degrade gracefully if nothing is there.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Responsive user interface: The app adapts to various input methods (touch, speech, etc.) and output methods (different screen sizes, vibration, audio, braille displays, etc.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Connectivity-independence: The app works well offline and with intermittent or low-bandwith connectivity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;App-like UI: The app adopts UI elements of native platforms, including a fast-loading user interface (which can be achieved by caching important assets via service workers).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Continuous updates (“freshness”): The service worker API defines a process for automatically updating apps to new versions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Secure communication: The app is served and communicates via HTTPS, to prevent snooping and attacks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;App discovery: Meta-data such as &lt;a href="http://www.w3.org/TR/appmanifest/"&gt;W3C web app manfests&lt;/a&gt; enables search engines to find web apps.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Push interaction (“re-engagement”): Features such as push notifications actively keep users up-to-date.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Natively installable: On some platforms, you can install a web app so that it feels like a native app (icon on home screen, separate entry in app switcher, browser chrome optional). All without going through a native app store.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Linkability: Easily share apps via URLs and run them without installation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I’m mentioning progressive web apps here, because I like all of the aforementioned techniques and technologies. But I’m not sure how much “progressive web apps” are different from simply “modern web apps”. One idea I oppose is &lt;a href="https://developers.google.com/web/fundamentals/engage-and-retain/simplified-app-installs/"&gt;giving web apps install banners&lt;/a&gt; (their killer feature is, after all, that they don’t need those).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developers.google.com/web/progressive-web-apps"&gt;Progressive Web Apps&lt;/a&gt; (site by Google)&lt;/li&gt;
+&lt;li&gt;“&lt;a href="https://trib.tv/2015/10/11/progressive-apps/"&gt;‘Progressive apps’ are a bag of carrots&lt;/a&gt;” by Andrew Betts. Andrew is critical of “progressive web apps” as a brand. The blog post starts with an interesting examination of that brand.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="visual-studio-code"&gt;Visual Studio Code&lt;/h3&gt;&lt;p&gt;&lt;a href="https://code.visualstudio.com/"&gt;Visual Studio Code&lt;/a&gt; is a JavaScript code editor for whom the goal is to exist in the space between full IDEs and text editors. And, in my opinion, it succeeds nicely. A plus is that it’s written in JavaScript and based on Electron. In 2015, VSC became &lt;a href="https://github.com/Microsoft/vscode"&gt;open source&lt;/a&gt; and gained &lt;a href="https://code.visualstudio.com/Docs/extensions/overview"&gt;&lt;em&gt;extensions&lt;/em&gt;&lt;/a&gt; (an API for extending it via plugins).&lt;/p&gt;
+&lt;h3 id="rollup"&gt;Rollup&lt;/h3&gt;&lt;p&gt;&lt;a href="http://rollupjs.org/"&gt;Rollup&lt;/a&gt; is a &lt;em&gt;module bundler&lt;/em&gt;: it converts multiple ES6 modules into a single &lt;em&gt;bundle&lt;/em&gt;, a module in either one of serveral formats (ES6, CommonJS, …). Rollup brings two innovations to the world of JavaScript modules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The bundle it outputs only includes those exports that are actually used, via a technique called “tree-shaking”. Three-shaking crucially depends on the static structure of ES6 modules. “Static structure” means that they are analyzable at compile time, without executing any of their code. Having this kind of dead code elimination is great, because we are now free to make modules as big or as tiny as makes sense, without having to worry about the sizes of bundles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It demonstrates that ES6 modules are a viable bundle format for ES6 modules (obviating the need for any kind of custom loading).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://rollupjs.org/guide/"&gt;The Rollup Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2015/12/webpack-tree-shaking.html"&gt;Tree-shaking with webpack 2 and Babel 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2015/12/bundling-modules-future.html"&gt;The future of bundling JavaScript modules&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="web-assembly"&gt;Web Assembly&lt;/h3&gt;&lt;p&gt;Web Assembly is a binary format for a static formal language (derived from asm.js) that can be fed into JavaScript engines (that support it) to create fast executables. The formal language is higher-level than bytecode and therefore easier to evolve. The output lives inside the universe of JavaScript and therefore integrates well with it. Given how fast asm.js is, C++ compiled to Web Assembly will run roughly 70% as fast as when you compile it to native code.&lt;/p&gt;
+&lt;p&gt;Web Assembly will probably eventually get support for JavaScript OOP. At that point, it will truly be a universal virtual machine for the web.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2015/06/web-assembly.html"&gt;WebAssembly: a binary format for the web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/983012197706692714/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=983012197706692714' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/983012197706692714'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/983012197706692714'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/01/web-technologies-2015.html' title='Looking back on 2015: six exciting web technologies'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-9089945074154388056</id><published>2016-01-01T15:40:00.000+01:00</published><updated>2016-01-01T15:45:09.991+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='book'/><title type='text'>My new book: “Setting up ES6”</title><content type='html'>&lt;p&gt;My latest book is called “&lt;a href="https://leanpub.com/setting-up-es6"&gt;Setting up ES6&lt;/a&gt;”. It covers the following topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A cheat sheet for deploying ECMAScript 6&lt;/li&gt;
+&lt;li&gt;Example setups (skeleton projects that you can download from GitHub):&lt;ul&gt;
+&lt;li&gt;ES6 in browsers via webpack and Babel&lt;/li&gt;
+&lt;li&gt;ES6 in Node.js via Babel (compiled dynamically or statically)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;How to configure Babel 6, including a clear explanation of how it interacts with CommonJS modules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+
+&lt;p&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;
+&lt;a href="http://3.bp.blogspot.com/-a-rnSs2w2rg/VoaO3m9l_AI/AAAAAAAABKw/Ln9iRBhqeIM/s1600/cover-setting-up-es6.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img style="padding:0 0 0 0" border="0" src="http://3.bp.blogspot.com/-a-rnSs2w2rg/VoaO3m9l_AI/AAAAAAAABKw/Ln9iRBhqeIM/s1600/cover-setting-up-es6.jpg"&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;“&lt;a href="https://leanpub.com/setting-up-es6"&gt;Setting up ES6&lt;/a&gt;” was conceived as a companion to my other book, “&lt;a href="http://exploringjs.com/"&gt;Exploring ES6&lt;/a&gt;”:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“&lt;a href="http://exploringjs.com/"&gt;Exploring ES6&lt;/a&gt;” is supposed to remain relevant for a longer time, so that a print edition makes sense (which I still intend to publish, hopefully by mid-2016).&lt;/li&gt;
+&lt;li&gt;“&lt;a href="https://leanpub.com/setting-up-es6"&gt;Setting up ES6&lt;/a&gt;” will age more quickly. It mainly documents my attempts to understand how Babel 6 works. In a way, you could call it “Setting up Babel 6”. But it has a slightly broader scope, especially the first chapter on deploying ES6.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Happy reading – the contents of “&lt;a href="https://leanpub.com/setting-up-es6"&gt;Setting up ES6&lt;/a&gt;” are free to read online. If you like the book then you can support my work by buying the offline version (PDF, EPUB, MOBI).&lt;/p&gt;</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/9089945074154388056/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=9089945074154388056' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/9089945074154388056'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/9089945074154388056'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2016/01/book-setting-up-es6.html' title='My new book: “Setting up ES6”'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='http://3.bp.blogspot.com/-a-rnSs2w2rg/VoaO3m9l_AI/AAAAAAAABKw/Ln9iRBhqeIM/s72-c/cover-setting-up-es6.jpg' height='72' width='72'/><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-8463019073847462182</id><published>2015-12-27T23:13:00.002+01:00</published><updated>2015-12-28T22:25:49.487+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='esnext'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><category scheme='http://www.blogger.com/atom/ns#' term='jsmodules'/><category scheme='http://www.blogger.com/atom/ns#' term='jstools'/><title type='text'>The future of bundling JavaScript modules</title><content type='html'>
+&lt;p&gt;This blog post examines how the bundling of modules is affected by two future developments: HTTP/2 and native modules.&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="why-we-bundle-modules" class="countheads"&gt;Why we bundle modules&lt;/h3&gt;&lt;p&gt;Bundling modules means combining several files with modules into a single file. That is done for three reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Fewer files need to be retrieved in order to load all modules.&lt;/li&gt;
+&lt;li&gt;Compressing the bundled file is slightly more efficient than compressing separate files.&lt;/li&gt;
+&lt;li&gt;During bundling, unused exports can be removed, potentially resulting in significant space savings.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="javascript-modules"&gt;JavaScript modules&lt;/h3&gt;&lt;p&gt;With ECMAScript 6, JavaScript finally got built-in modules (I’m calling them &lt;em&gt;JavaScript modules&lt;/em&gt; for the remainder of this blog post). However, that feature is currently in a strange position:&lt;/p&gt;
+&lt;p&gt;On one hand, ES6 fully standardized their syntax and much of their semantics. They have become a popular format for writing modules and their static structure enables the automatic omission of unused exports (also known as “tree-shaking” in the JavaScript world).&lt;/p&gt;
+&lt;p&gt;On the other hand, standardizing how to load JavaScript modules is ongoing and no JavaScript engine supports them natively, yet. That means that, at the moment, the only way of using JavaScript modules is by compiling them to a non-native format. Popular solutions are: browserify, webpack, jspm and Rollup.&lt;/p&gt;
+&lt;h3 id="future-developments-and-bundling"&gt;Future developments and bundling&lt;/h3&gt;&lt;p&gt;Let’s look at two future developments and how they affect the bundling of JavaScript modules.&lt;/p&gt;
+&lt;h4 id="future-development-http%2F2"&gt;Future development: HTTP/2&lt;/h4&gt;&lt;p&gt;HTTP/2 is slowly being rolled out. It mainly affects reason #1 for bundling: With HTTP/2, the cost per request has decreased considerably compared to HTTP/1, which means that there are practically no performance gains if you download a single file instead of multiple ones. That enables smaller, more incremental updates: With bundling, you always need to download the complete bundle. Without bundling, you only need to download the parts that have changed (while the other parts are often still in the browser cache).&lt;/p&gt;
+&lt;p&gt;However, reasons #2 and #3 for bundling are not negated by HTTP/2. Therefore, mixed approaches may be adopted in the future, to optimize for both incremental updates and minimal total download size.&lt;/p&gt;
+&lt;h4 id="future-development-native-javascript-modules"&gt;Future development: native JavaScript modules&lt;/h4&gt;&lt;p&gt;Once engines support native JavaScript modules, will that affect bundling? Even AMD modules – which run natively in browsers – have &lt;a href="http://requirejs.org/docs/optimization.html"&gt;a custom bundle format&lt;/a&gt; (along with a minimal loader). Will native JS modules be different? It looks like they will. Rollup lets you bundle multiple JS modules into a single JS module.&lt;/p&gt;
+&lt;p&gt;Take, for example, these two JS modules:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    // lib.js
+    export function foo() {}
+    export function bar() {}
+    
+    // main.js
+    import {foo} from './lib.js';
+    console.log(foo());
+&lt;/pre&gt;
+&lt;p&gt;Rollup can bundle these two JS modules into the following single JS module (note the eliminated unused export &lt;code&gt;bar&lt;/code&gt;):&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function foo() {}
+    
+    console.log(foo());
+&lt;/pre&gt;
+&lt;p&gt;Initially, it wasn’t a given that JavaScript modules would work as a bundle format – &lt;a href="https://github.com/rollup/rollup/issues/219#issuecomment-150842108"&gt;quoting Rollup’s creator Rich Harris&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When I started writing Rollup, it was an experiment that I wasn&amp;#39;t certain would succeed.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The way imports are handled by JS modules helps with bundling: &lt;a href="http://exploringjs.com/es6/ch_modules.html#_imports-are-read-only-views-on-exports"&gt;they are not copies of exports, they are read-only views on them&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://rollupjs.org/"&gt;Rollup’s site&lt;/a&gt; has a nice interactive playground where you can try it out.&lt;/p&gt;
+&lt;h3 id="further-reading"&gt;Further reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;“&lt;a href="http://rmurphey.com/blog/2015/11/25/building-for-http2"&gt;Building for HTTP/2&lt;/a&gt;” by Rebecca Murphey (explains how best practices change – often radically – with this new version of HTTP)&lt;/li&gt;
+&lt;li&gt;Chap. “&lt;a href="http://exploringjs.com/es6/ch_modules.html"&gt;Modules&lt;/a&gt;” in “Exploring ES6” (explains how ES6 modules work)&lt;/li&gt;
+&lt;li&gt;“&lt;a href="http://www.2ality.com/2015/12/babel-commonjs.html"&gt;Babel and CommonJS modules&lt;/a&gt;” (explains how Babel ensures that transpiled ES6 modules interoperate properly with CommonJS modules)&lt;/li&gt;
+&lt;/ul&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/8463019073847462182/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=8463019073847462182' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/8463019073847462182'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/8463019073847462182'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2015/12/bundling-modules-future.html' title='The future of bundling JavaScript modules'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-7992560458246582212</id><published>2015-12-20T21:14:00.000+01:00</published><updated>2015-12-21T07:46:30.992+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='babel'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><category scheme='http://www.blogger.com/atom/ns#' term='jsmodules'/><category scheme='http://www.blogger.com/atom/ns#' term='webpack'/><title type='text'>Tree-shaking with webpack 2 and Babel 6</title><content type='html'>
+&lt;p&gt;&lt;a href="https://github.com/rollup/rollup"&gt;Rich Harris’ module bundler Rollup&lt;/a&gt; popularized an important feature in the JavaScript world: &lt;em&gt;tree-shaking&lt;/em&gt;, excluding unused exports from bundles. Rollup depends on &lt;a href="http://exploringjs.com/es6/ch_modules.html#static-module-structure"&gt;the static structure of ES6 modules&lt;/a&gt; (imports and exports can’t be changed at runtime) to detect which exports are unused.&lt;/p&gt;
+&lt;p&gt;Tree-shaking for webpack is currently in beta. This blog post explains how it works. The project we are going to examine is on GitHub: &lt;a href="https://github.com/rauschma/tree-shaking-demo"&gt;&lt;code&gt;tree-shaking-demo&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="how_webpack_2_eliminates_unused_exports" class="countheads"&gt;How webpack 2 eliminates unused exports&lt;/h3&gt;&lt;p&gt;webpack 2, a new version that is in beta, eliminates unused exports in two steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;First, all ES6 module files are combined into a single bundle file. In that file, exports that were not imported anywhere are not exported, anymore.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Second, the bundle is minified, while eliminating dead code. Therefore, entities that are neither exported nor used inside their modules do not appear in the minified bundle. Without the first step, dead code elimination would never remove exports (registering an export keeps it alive).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Unused exports can only be reliably detected at build time if the module system has a static structure. Therefore, webpack 2 can parse and understand all of ES6 and only tree-shakes if it detects an ES6 module. However, only imports and exports are transpiled to ES5. If you want all of the bundle to be in ES5, you need a transpiler for the remaining parts of ES6. In this blog post, we’ll use Babel 6.&lt;/p&gt;
+&lt;h3 id="input%3A_es6_code"&gt;Input: ES6 code&lt;/h3&gt;&lt;p&gt;The demo project has two ES6 modules.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;helpers.js&lt;/code&gt; with helper functions:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    // helpers.js
+    export function foo() {
+        return 'foo';
+    }
+    export function bar() {
+        return 'bar';
+    }
+&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;main.js&lt;/code&gt;, the entry point of the web application:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    // main.js
+    import {foo} from './helpers';
+    
+    let elem = document.getElementById('output');
+    elem.innerHTML = `Output: ${foo()}`;
+&lt;/pre&gt;
+&lt;p&gt;Note that the export &lt;code&gt;bar&lt;/code&gt; of module &lt;code&gt;helpers&lt;/code&gt; is not used anywhere in this project.&lt;/p&gt;
+&lt;h3 id="output_without_tree-shaking"&gt;Output without tree-shaking&lt;/h3&gt;&lt;p&gt;The canonical choice for Babel 6 is to use the preset &lt;code&gt;es2015&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    {
+        presets: ['es2015'],
+    }
+&lt;/pre&gt;
+&lt;p&gt;However, &lt;a href="https://github.com/babel/babel/blob/472ad1e6a6d4d0dd199078fdb08c5bc16c75b5a9/packages/babel-preset-es2015/index.js"&gt;that preset&lt;/a&gt; includes the plugin &lt;code&gt;transform-es2015-modules-commonjs&lt;/code&gt;, which means that Babel will output CommonJS modules and webpack won’t be able to tree-shake:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function(module, exports) {
+    
+        'use strict';
+    
+        Object.defineProperty(exports, "__esModule", {
+            value: true
+        });
+        exports.foo = foo;
+        exports.bar = bar;
+        function foo() {
+            return 'foo';
+        }
+        function bar() {
+            return 'bar';
+        }
+    
+    }
+&lt;/pre&gt;
+&lt;p&gt;You can see that &lt;code&gt;bar&lt;/code&gt; is part of the exports, which prevents it being recognized as dead code by minification.&lt;/p&gt;
+&lt;h3 id="output_with_tree-shaking"&gt;Output with tree-shaking&lt;/h3&gt;&lt;p&gt;What we want is Babel’s &lt;code&gt;es2015&lt;/code&gt;, but without the plugin &lt;code&gt;transform-es2015-modules-commonjs&lt;/code&gt;. At the moment, the only way to get that is by mentioning all of the preset’s plugins in our configuration data, except for the one we want to exclude. &lt;a href="https://github.com/babel/babel/blob/472ad1e6a6d4d0dd199078fdb08c5bc16c75b5a9/packages/babel-preset-es2015/index.js"&gt;The preset’s source is on GitHub&lt;/a&gt;, so it’s basically a case of copying and pasting:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    {
+        plugins: [
+            'transform-es2015-template-literals',
+            'transform-es2015-literals',
+            'transform-es2015-function-name',
+            'transform-es2015-arrow-functions',
+            'transform-es2015-block-scoped-functions',
+            'transform-es2015-classes',
+            'transform-es2015-object-super',
+            'transform-es2015-shorthand-properties',
+            'transform-es2015-computed-properties',
+            'transform-es2015-for-of',
+            'transform-es2015-sticky-regex',
+            'transform-es2015-unicode-regex',
+            'check-es2015-constants',
+            'transform-es2015-spread',
+            'transform-es2015-parameters',
+            'transform-es2015-destructuring',
+            'transform-es2015-block-scoping',
+            'transform-es2015-typeof-symbol',
+            ['transform-regenerator', { async: false, asyncGenerators: false }],
+        ],
+    }
+&lt;/pre&gt;
+&lt;p&gt;If we build the project now, module &lt;code&gt;helpers&lt;/code&gt; looks like this inside the bundle:&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function(module, exports, __webpack_require__) {
+    
+        /* harmony export */ exports["foo"] = foo;
+        /* unused harmony export bar */;
+    
+        function foo() {
+            return 'foo';
+        }
+        function bar() {
+            return 'bar';
+        }
+    }
+&lt;/pre&gt;
+&lt;p&gt;Only &lt;code&gt;foo&lt;/code&gt; is an export now, but &lt;code&gt;bar&lt;/code&gt; is still there. After minification, &lt;code&gt;helpers&lt;/code&gt; looks like this (I’ve added line breaks and whitespace to make the code easier to read):&lt;/p&gt;
+&lt;pre class="javascript"&gt;
+    function (t, n, r) {
+        function e() {
+            return "foo"
+        }
+    
+        n.foo = e
+    }
+&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;Et voilà&lt;/em&gt; – no more function &lt;code&gt;bar&lt;/code&gt;!&lt;/p&gt;
+&lt;h3 id="further_reading"&gt;Further reading&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/webpack/webpack/tree/master/examples/harmony-unused"&gt;webpack example: &lt;code&gt;harmony-unused&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2015/11/configuring-babel6.html"&gt;Configuring Babel 6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/7992560458246582212/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=7992560458246582212' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/7992560458246582212'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/7992560458246582212'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2015/12/webpack-tree-shaking.html' title='Tree-shaking with webpack 2 and Babel 6'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-8100407163665430627.post-5906269471418617708</id><published>2015-12-20T15:15:00.002+01:00</published><updated>2015-12-20T15:15:40.423+01:00</updated><category scheme='http://www.blogger.com/atom/ns#' term='npm'/><category scheme='http://www.blogger.com/atom/ns#' term='dev'/><category scheme='http://www.blogger.com/atom/ns#' term='nodejs'/><category scheme='http://www.blogger.com/atom/ns#' term='javascript'/><title type='text'>Installing past or future versions of npm packages</title><content type='html'>
+&lt;p&gt;npm lets you install versions of packages other than the current one, via:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    npm install «package-name»@«tag»
+    npm install «package-name»@«version»
+&lt;/pre&gt;
+&lt;a name='more'&gt;&lt;/a&gt;
+&lt;h3 id="installing_tags" class="countheads"&gt;Installing tags&lt;/h3&gt;&lt;p&gt;Tags are aliases for versions. You can look up available tags via:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    npm view «package-name» dist-tags
+&lt;/pre&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ npm view webpack dist-tags
+    { latest: '1.12.9', beta: '2.0.1-beta' }
+&lt;/pre&gt;
+&lt;h3 id="installing_versions"&gt;Installing versions&lt;/h3&gt;&lt;p&gt;You can look up available versions via:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    npm view «package-name» versions
+&lt;/pre&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;pre class="text"&gt;
+    $ npm view webpack versions
+    
+    [ '0.1.0',
+      '0.1.1',
+      ···
+      '1.12.8',
+      '1.12.9',
+      '2.0.0-beta',
+      '2.0.1-beta' ]
+&lt;/pre&gt;
+</content><link rel='replies' type='application/atom+xml' href='http://www.2ality.com/feeds/5906269471418617708/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=8100407163665430627&amp;postID=5906269471418617708' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5906269471418617708'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/8100407163665430627/posts/default/5906269471418617708'/><link rel='alternate' type='text/html' href='http://www.2ality.com/2015/12/npm-install-tag-version.html' title='Installing past or future versions of npm packages'/><author><name>Axel Rauschmayer</name><uri>https://plus.google.com/110516491705475800224</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32' src='//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg'/></author><thr:total>0</thr:total></entry></feed>
