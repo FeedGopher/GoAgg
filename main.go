@@ -17,25 +17,43 @@ import (
 	// "github.com/lib/pq"
 )
 
+var testFeed = "https://www.blogger.com/feeds/8100407163665430627/posts/default"
+
 func main() {
-	response, err := http.Get("https://www.blogger.com/feeds/8100407163665430627/posts/default")
+	body := fetchFeed(testFeed)
+	xml := feedToXML(body)
+
+	file, err := os.Create("output.json")
+	if err != nil {
+		fmt.Println("Error creating test output file.", err)
+	}
+	writeXMLAsJSON(xml, file) // should be writing to a db or server response
+}
+
+func fetchFeed(feedURI string) (io.Reader) {
+	// feedURI instead
+	response, err := http.Get(feedURI)
 	if err != nil {
 		fmt.Println("ATOM GET error:", err)
 		log.Fatal(err)
 	}
 	defer response.Body.Close()
-	fmt.Printf("response body: %s", response.Body)
+	// fmt.Printf("response body: %s", response.Body)
 
+	return response.Body
+}
+
+func feedToXMLMap(feed io.Reader) (Map) {
 	// Use mxj package to translate XML structured bytes to a map[string]interface{}
 	xmlMap, err := mxj.NewMapXmlReader(response.Body)
 	if err != nil {
 		fmt.Println("Error creating map from XML reader", err)
 	}
+	return xmlMap
+}
 
-	// Output map[string]interface{...} to file as JSON.
-	f, err := os.Create("output.json")	
-	if err != nil {
-		fmt.Println("Error creating test output file.", err)
-	}
-	xmlMap.JsonIndentWriter(f, "", "\t", true)
+func writeXMLAsJSON(xmlMap Map, destination *File) () {
+	xmlMap.JsonIndentWriter(destination, "", "\t", true)
+
+	return
 }
