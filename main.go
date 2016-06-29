@@ -43,6 +43,10 @@ func fetchFeedXML(feedURI string) (mxj.Map) {
 		fmt.Println("Error creating map from XML reader", err)
 	}
 
+	// Okay! This is the JSON representation of an mxj.Map!
+	jsonBytes, err := xmlMap.Json(true)
+	fmt.Printf("json marshall: %s", jsonBytes)
+
 	return xmlMap
 }
 
