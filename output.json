@@ -9,10 +9,10 @@
 		"author": {
 			"email": "noreply@blogger.com",
 			"image": {
-				"-height": "32",
+				"-height": 32,
 				"-rel": "http://schemas.google.com/g/2005#thumbnail",
 				"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-				"-width": "32"
+				"-width": 32
 			},
 			"name": "Axel Rauschmayer",
 			"uri": "https://plus.google.com/110516491705475800224"
@@ -876,10 +876,10 @@
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -928,17 +928,17 @@
 					"#text": "Taking a break",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-06-16T14:14:38.206+02:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -994,26 +994,26 @@
 				],
 				"published": "2016-05-22T11:26:00.001+02:00",
 				"thumbnail": {
-					"-height": "72",
+					"-height": 72,
 					"-media": "http://search.yahoo.com/mrss/",
 					"-url": "https://2.bp.blogspot.com/-OSNPZIuwA9c/V0F6qIoPoKI/AAAAAAAABNU/94A9dA9wbz4RbV0UhIrr6HziYvz6UDdpgCLcB/s72-c/javascript-emoji.png",
-					"-width": "72"
+					"-width": 72
 				},
 				"title": {
 					"#text": "Six nifty ES6 tricks",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-05-22T17:13:53.192+02:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1076,17 +1076,17 @@
 					"#text": "Handling whitespace in ES6 template literals",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-05-15T16:20:05.860+02:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1153,17 +1153,17 @@
 					"#text": "Trees of Promises in ES6",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-04-17T18:05:56.538+02:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1230,17 +1230,17 @@
 					"#text": "Tracking unhandled rejected Promises",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-04-12T13:56:05.120+02:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1307,17 +1307,17 @@
 					"#text": "Promise-based functions should not throw exceptions",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-03-28T13:43:19.625+02:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1380,17 +1380,17 @@
 					"#text": "The need for multi-platform npm packages",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-03-20T23:08:22.936+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1453,17 +1453,17 @@
 					"#text": "Arrow functions vs. bind()",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-02-24T12:32:56.952+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1522,17 +1522,17 @@
 					"#text": "Examples of name clashes in JavaScript’s standard library",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-02-22T16:15:12.039+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1581,17 +1581,17 @@
 					"#text": "JavaScript fatigue fatigue",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-02-11T14:15:02.253+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1654,17 +1654,17 @@
 					"#text": "ES proposal: Object.getOwnPropertyDescriptors()",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-02-04T09:44:27.190+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1727,17 +1727,17 @@
 					"#text": "Feature watch: ECMAScript 2017",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-03-29T21:44:06.339+02:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1808,17 +1808,17 @@
 					"#text": "ES proposal: async functions",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-04-30T12:04:23.489+02:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1881,17 +1881,17 @@
 					"#text": "ES2016 feature: exponentiation operator (**)",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-02-01T11:32:53.065+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -1954,17 +1954,17 @@
 					"#text": "ES2016 feature: Array.prototype.includes",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-02-01T11:29:25.916+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2027,17 +2027,17 @@
 					"#text": "The final feature set of ECMAScript 2016 (ES7)",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-04-20T10:01:50.174+02:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2100,17 +2100,17 @@
 					"#text": "ES.next News: a weekly email newsletter",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-01-20T11:50:08.013+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2173,17 +2173,17 @@
 					"#text": "Enumify: better enums for JavaScript",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-01-19T06:54:24.630+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2242,17 +2242,17 @@
 					"#text": "ES6 classes have inner names",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-01-09T22:14:54.224+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2311,17 +2311,17 @@
 					"#text": "Running locally installed npm executables",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-01-07T18:52:40.598+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2380,17 +2380,17 @@
 					"#text": "Managing the private data of ES6 classes",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-01-04T23:46:14.419+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2449,17 +2449,17 @@
 					"#text": "Looking back on 2015: six exciting web technologies",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-01-04T23:58:21.576+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2511,26 +2511,26 @@
 				],
 				"published": "2016-01-01T15:40:00.000+01:00",
 				"thumbnail": {
-					"-height": "72",
+					"-height": 72,
 					"-media": "http://search.yahoo.com/mrss/",
 					"-url": "http://3.bp.blogspot.com/-a-rnSs2w2rg/VoaO3m9l_AI/AAAAAAAABKw/Ln9iRBhqeIM/s72-c/cover-setting-up-es6.jpg",
-					"-width": "72"
+					"-width": 72
 				},
 				"title": {
 					"#text": "My new book: “Setting up ES6”",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2016-01-01T15:45:09.991+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2597,17 +2597,17 @@
 					"#text": "The future of bundling JavaScript modules",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2015-12-28T22:25:49.487+01:00"
 			},
 			{
 				"author": {
 					"email": "noreply@blogger.com",
 					"image": {
-						"-height": "32",
+						"-height": 32,
 						"-rel": "http://schemas.google.com/g/2005#thumbnail",
 						"-src": "//lh4.googleusercontent.com/-Co_34CwBCQU/AAAAAAAAAAI/AAAAAAAAAuM/VlxolpljJ4s/s32-c/photo.jpg",
-						"-width": "32"
+						"-width": 32
 					},
 					"name": "Axel Rauschmayer",
 					"uri": "https://plus.google.com/110516491705475800224"
@@ -2674,17 +2674,17 @@
 					"#text": "Tree-shaking with webpack 2 and Babel 6",
 					"-type": "text"
 				},
-				"total": "0",
+				"total": 0,
 				"updated": "2015-12-21T07:46:30.992+01:00"
 			}
 		],
 		"generator": {
 			"#text": "Blogger",
 			"-uri": "https://www.blogger.com",
-			"-version": "7.00"
+			"-version": 7
 		},
 		"id": "tag:blogger.com,1999:blog-8100407163665430627",
-		"itemsPerPage": "25",
+		"itemsPerPage": 25,
 		"link": [
 			{
 				"-href": "https://www.blogger.com/feeds/8100407163665430627/posts/default",
@@ -2711,7 +2711,7 @@
 				"-type": "application/atom+xml"
 			}
 		],
-		"startIndex": "1",
+		"startIndex": 1,
 		"subtitle": {
 			"-type": "html"
 		},
@@ -2719,7 +2719,7 @@
 			"#text": "②ality – JavaScript and more",
 			"-type": "text"
 		},
-		"totalResults": "1101",
+		"totalResults": 1101,
 		"updated": "2016-06-23T00:07:37.676+02:00"
 	}
 }
